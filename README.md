@@ -1,3 +1,7 @@
+# Pixel People
+
+> **Note**: The commit history for this repository has been omitted for security reasons.
+
 # Firebase Setup
 
 ## Initial setup
