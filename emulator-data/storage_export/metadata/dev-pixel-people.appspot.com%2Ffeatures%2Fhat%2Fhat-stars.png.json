@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-stars.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410171,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "0440198f-4fb2-4f0f-964b-85b04e18528a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.171Z",
+  "updated": "2022-04-18T15:40:10.171Z",
+  "size": 129,
+  "md5Hash": "GzomDOkYcdF0jXRlG0rKEw==",
+  "crc32c": "506062925"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-drool.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429426,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "0d133ef7-8154-464a-8693-760c58ecdc89"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.426Z",
+  "updated": "2022-04-18T15:40:29.426Z",
+  "size": 142,
+  "md5Hash": "ac+ZLNY8Rb6ld9i6KfgMUQ==",
+  "crc32c": "2430959845"
+}

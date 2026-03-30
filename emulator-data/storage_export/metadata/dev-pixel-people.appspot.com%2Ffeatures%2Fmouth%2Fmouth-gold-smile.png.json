@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-gold-smile.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429428,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "5eb3993e-96d8-4f47-99f2-b6ea483e2d6d"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.428Z",
+  "updated": "2022-04-18T15:40:29.428Z",
+  "size": 521,
+  "md5Hash": "HvnNhfm8qwXLgQqG7tb4Pw==",
+  "crc32c": "1513878424"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-construction.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410164,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "fc421a40-21ef-496c-bc96-45c5143e98f4"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.164Z",
+  "updated": "2022-04-18T15:40:10.164Z",
+  "size": 231,
+  "md5Hash": "lmsTvHQNgIqp+cWk3YkVjQ==",
+  "crc32c": "2719893688"
+}

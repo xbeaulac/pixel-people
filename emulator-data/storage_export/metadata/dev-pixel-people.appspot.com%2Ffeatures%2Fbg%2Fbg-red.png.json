@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-red.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306746,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "b9ed64e5-9cb0-461b-8f26-af0791915a4c"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.746Z",
+  "updated": "2022-04-18T15:38:26.746Z",
+  "size": 118,
+  "md5Hash": "OVWJS40atMDLSEsdsDlLjQ==",
+  "crc32c": "3625456838"
+}

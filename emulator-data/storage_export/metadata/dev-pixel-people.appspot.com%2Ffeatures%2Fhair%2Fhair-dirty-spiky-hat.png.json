@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-dirty-spiky-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402110,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "cfab4336-e029-4aa0-ab97-9bbc946c550c"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.110Z",
+  "updated": "2022-04-18T15:40:02.110Z",
+  "size": 275,
+  "md5Hash": "XBROPFwk0onKEadSd8IEbg==",
+  "crc32c": "2970257827"
+}

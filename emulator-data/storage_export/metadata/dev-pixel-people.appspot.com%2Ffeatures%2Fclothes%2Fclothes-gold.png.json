@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-gold.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327429,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "29e2dee5-0ca9-4444-8dd8-aa4c75cc130d"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.429Z",
+  "updated": "2022-04-18T15:38:47.429Z",
+  "size": 192,
+  "md5Hash": "lDi5Hi7gXcUYFazQEm0OFQ==",
+  "crc32c": "2775110790"
+}

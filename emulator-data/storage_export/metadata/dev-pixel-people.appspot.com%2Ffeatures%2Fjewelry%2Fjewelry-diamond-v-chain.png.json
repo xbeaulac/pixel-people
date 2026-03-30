@@ -1,0 +1,20 @@
+{
+  "name": "features/jewelry/jewelry-diamond-v-chain.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296423270,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "2c8240dd-d92a-46bd-a961-832581b7ae22"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:23.270Z",
+  "updated": "2022-04-18T15:40:23.270Z",
+  "size": 152,
+  "md5Hash": "Wr/8w3uG8e8oGN/vvfPa/g==",
+  "crc32c": "795246535"
+}

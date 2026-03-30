@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-logo.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410167,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "3c8cb75d-b569-46d5-a7eb-c913d243eb3a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.167Z",
+  "updated": "2022-04-18T15:40:10.167Z",
+  "size": 260,
+  "md5Hash": "JGIn6qeWTJC6NocFGfOnAg==",
+  "crc32c": "1728438466"
+}

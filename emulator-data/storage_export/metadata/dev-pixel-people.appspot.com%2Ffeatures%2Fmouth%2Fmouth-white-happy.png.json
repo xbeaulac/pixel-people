@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-white-happy.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429468,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "68c0ff95-b891-4757-8190-047d6ad54e3a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.468Z",
+  "updated": "2022-04-18T15:40:29.468Z",
+  "size": 111,
+  "md5Hash": "dPD+AtIPjCXn6vOaxnxxdw==",
+  "crc32c": "218188079"
+}

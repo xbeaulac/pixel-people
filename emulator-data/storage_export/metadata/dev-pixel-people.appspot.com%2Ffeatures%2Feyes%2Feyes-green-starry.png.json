@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-green-starry.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364313,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "081889da-6478-41b6-9b6f-790c50a78d3b"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.313Z",
+  "updated": "2022-04-18T15:39:24.313Z",
+  "size": 136,
+  "md5Hash": "VCduhJ4GqUGVRGsSHgk3Ng==",
+  "crc32c": "2973509222"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-red-puffy-jacket.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327488,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "4906a4b5-61b7-42cb-a2e8-8311d0c8edfd"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.488Z",
+  "updated": "2022-04-18T15:38:47.488Z",
+  "size": 250,
+  "md5Hash": "G9z52plLSdHnvqUp+9Cs+A==",
+  "crc32c": "543698996"
+}

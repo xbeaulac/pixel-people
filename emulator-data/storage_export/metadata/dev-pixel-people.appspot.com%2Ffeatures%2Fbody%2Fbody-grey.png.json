@@ -1,0 +1,20 @@
+{
+  "name": "features/body/body-grey.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296315689,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d0f304b3-ac66-4b53-a49e-83ea9bd933ed"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:35.689Z",
+  "updated": "2022-04-18T15:38:35.689Z",
+  "size": 549,
+  "md5Hash": "1owisqA2us6ASaT2PG6Wrw==",
+  "crc32c": "4152426870"
+}

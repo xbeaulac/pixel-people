@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-white-down.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351880,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d4a82c85-5a56-4b63-b5fd-e48b1d279007"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.880Z",
+  "updated": "2022-04-18T15:39:11.880Z",
+  "size": 504,
+  "md5Hash": "CpN83Eyyh6XBHKXOUvmc4Q==",
+  "crc32c": "526738523"
+}

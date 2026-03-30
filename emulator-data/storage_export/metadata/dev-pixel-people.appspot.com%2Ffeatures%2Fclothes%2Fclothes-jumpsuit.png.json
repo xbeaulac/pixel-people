@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-jumpsuit.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327491,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "a6004aad-000d-4a98-ab82-f0082e463922"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.491Z",
+  "updated": "2022-04-18T15:38:47.491Z",
+  "size": 254,
+  "md5Hash": "SXC3QETCSzMhKhxplRIvUA==",
+  "crc32c": "3156154408"
+}

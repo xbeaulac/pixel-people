@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-green-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364355,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "b765ce00-f281-4367-b7b6-a7e924b4b058"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.355Z",
+  "updated": "2022-04-18T15:39:24.355Z",
+  "size": 533,
+  "md5Hash": "D/U2wMbt2yfRcSU6s06z9w==",
+  "crc32c": "387036711"
+}

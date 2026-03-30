@@ -1,0 +1,127 @@
+.modal .wallet-item {
+  display: flex;
+  justify-content: center;
+  padding-top: 1.2rem;
+  padding-bottom: 1.2rem;
+  padding-left: 0rem;
+  padding-right: 1.6rem;
+  margin: 1.6rem;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #fff;
+  transition: all 0.25s cubic-bezier(0.52, 0.02, 0.19, 1.02);
+}
+
+.modal .wallet-item:hover {
+  background-color: #fff;
+  transform: translateX(0.8rem);
+}
+
+@media (min-width: 640px) {
+  .modal .wallet-item {
+    width: 33vw;
+  }
+}
+
+.modal .item {
+  display: flex;
+  flex-direction: row;
+  gap: 1.6rem;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 2rem;
+}
+
+.modal .item > :not([hidden]) ~ :not([hidden]) {
+  margin-top: 1.2rem;
+  margin-bottom: 1.2rem;
+}
+
+.modal .line {
+  color: #e5e7eb;
+  border-width: 0px;
+  /* border-bottom-width: 1px; */
+  border-style: solid;
+}
+
+.modal .logo {
+  width: 50px;
+  height: 50px;
+  fill: none;
+}
+
+.modal .wallet-disabled {
+  opacity: 0.5;
+}
+
+.modal .wallet-disabled:hover {
+  background-color: rgba(255, 255, 255, 0.623);
+  cursor: default;
+}
+
+.modal .loading-modal {
+  width: 20rem;
+  padding: 2.5rem;
+  text-align: center;
+}
+
+.modal .loading-modal > p:first-child {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+@media (min-width: 640px) {
+  .modal .loading-modal {
+    width: auto;
+  }
+}
+
+.modal {
+  color: #1a1932;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-width: 100%;
+  height: 100%;
+  background-color: rgba(26, 25, 50, 0.9) !important;
+  backdrop-filter: blur(0.8rem);
+  left: 0px;
+  top: 0px;
+  z-index: 50;
+}
+
+.modal .modal-inner {
+  display: flex;
+  background: none;
+  border-radius: 1rem;
+  /* box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset,
+    rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px; */
+  box-shadow: none;
+  /* transform: translateY(-3.2rem); */
+}
+
+/* .modal .modal-content::before {
+  content: "Please connect your wallet.";
+  color: #ffffff;
+  display: block;
+  margin: 3.2rem 1.6rem;
+  font-family: "Helvetica Neue", "Inter", "Open Sans", Roboto, sans-serif;
+  font-size: 2rem;
+  letter-spacing: 0.6px;
+  text-align: center;
+  font-weight: 400;
+} */
+
+.modal .modal-animation-enter-active,
+.modal .modal-animation-leave-active {
+  transition: opacity 0.25s cubic-bezier(0.52, 0.02, 0.19, 1.02);
+}
+.modal .modal-animation-enter-from,
+.modal .modal-animation-leave-to {
+  opacity: 0;
+}

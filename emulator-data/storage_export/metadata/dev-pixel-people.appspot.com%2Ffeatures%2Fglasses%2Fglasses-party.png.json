@@ -1,0 +1,20 @@
+{
+  "name": "features/glasses/glasses-party.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296395895,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "62831d64-9f5e-4b34-ac78-555cc380a5bd"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:55.895Z",
+  "updated": "2022-04-18T15:39:55.895Z",
+  "size": 533,
+  "md5Hash": "HeQwhsBuVUJrLCsU4yymZg==",
+  "crc32c": "3711878419"
+}

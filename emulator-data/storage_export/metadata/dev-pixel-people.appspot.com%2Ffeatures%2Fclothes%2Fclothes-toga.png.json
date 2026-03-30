@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-toga.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327494,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "160d366c-0bc1-4760-8a69-d34df6d67f97"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.494Z",
+  "updated": "2022-04-18T15:38:47.494Z",
+  "size": 157,
+  "md5Hash": "HE6d2MzatRVRshXXg1spHg==",
+  "crc32c": "3798305602"
+}

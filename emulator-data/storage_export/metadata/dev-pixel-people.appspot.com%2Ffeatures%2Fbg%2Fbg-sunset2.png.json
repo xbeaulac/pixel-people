@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-sunset2.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306834,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "25ac21b3-f817-4a23-8653-8211811f0999"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.834Z",
+  "updated": "2022-04-18T15:38:26.834Z",
+  "size": 1474,
+  "md5Hash": "Fr8H7U3H8NFeaMxZx3507Q==",
+  "crc32c": "3444390025"
+}

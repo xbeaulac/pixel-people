@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-white.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429443,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "fd8f8fd5-2155-4a78-a04d-3e218a363a4a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.443Z",
+  "updated": "2022-04-18T15:40:29.443Z",
+  "size": 503,
+  "md5Hash": "RWTtkWrgMX7a9vqQLccByw==",
+  "crc32c": "2600056313"
+}

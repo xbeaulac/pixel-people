@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-upper-smile.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429422,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "80a0304b-88b5-44c9-830d-d95b7cfb671e"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.422Z",
+  "updated": "2022-04-18T15:40:29.422Z",
+  "size": 125,
+  "md5Hash": "C2cxdLx+Q9dGrOlB8ErRKw==",
+  "crc32c": "3060141529"
+}

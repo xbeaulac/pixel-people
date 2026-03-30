@@ -1,0 +1,20 @@
+{
+  "name": "features/nose/nose-black-big.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296436162,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "df1561dd-7ce6-4191-a793-4c3aed211316"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:36.162Z",
+  "updated": "2022-04-18T15:40:36.162Z",
+  "size": 504,
+  "md5Hash": "vS/HekwkaoKSXmj3Cgc7Bw==",
+  "crc32c": "3615162007"
+}

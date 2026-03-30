@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-beach2.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306824,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "f8a4d4d0-5c55-431a-b530-30f076fe199f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.824Z",
+  "updated": "2022-04-18T15:38:26.824Z",
+  "size": 789,
+  "md5Hash": "J5tLy5DYtU/Oa2IYlBMFUQ==",
+  "crc32c": "3302455424"
+}

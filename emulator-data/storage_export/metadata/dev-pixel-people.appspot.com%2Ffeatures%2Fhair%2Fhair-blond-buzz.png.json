@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blond-buzz.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402137,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "9ad5f147-f9a5-48fa-b270-9de1255beb84"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.137Z",
+  "updated": "2022-04-18T15:40:02.137Z",
+  "size": 183,
+  "md5Hash": "C2IJpJs/bM1LVBoB8hIaVQ==",
+  "crc32c": "2759736602"
+}

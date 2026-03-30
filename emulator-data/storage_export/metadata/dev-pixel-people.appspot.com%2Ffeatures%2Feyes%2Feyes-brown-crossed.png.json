@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-brown-crossed.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364481,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "07b53909-206d-46dd-9afa-56c8558f2f9f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.481Z",
+  "updated": "2022-04-18T15:39:24.481Z",
+  "size": 140,
+  "md5Hash": "W+VPSn1PgXYSFCOj744r6Q==",
+  "crc32c": "251913931"
+}

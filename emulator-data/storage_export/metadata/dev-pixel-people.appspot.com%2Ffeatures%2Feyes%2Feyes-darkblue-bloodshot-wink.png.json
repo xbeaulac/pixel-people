@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-darkblue-bloodshot-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364377,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "9c692750-2b33-4484-b4ee-4c34657647c8"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.377Z",
+  "updated": "2022-04-18T15:39:24.377Z",
+  "size": 142,
+  "md5Hash": "fxbh6NVIFz5Lxc2/QEssLg==",
+  "crc32c": "433578496"
+}

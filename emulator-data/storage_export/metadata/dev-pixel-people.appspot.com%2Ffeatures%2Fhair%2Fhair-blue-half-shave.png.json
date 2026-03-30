@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blue-half-shave.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402244,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "17de173a-28f9-4b57-98d8-d3cfd30539cd"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.244Z",
+  "updated": "2022-04-18T15:40:02.244Z",
+  "size": 754,
+  "md5Hash": "njzx/Kjd+vCA3Qe9OGjaxw==",
+  "crc32c": "117238117"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-green-sleepy-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364393,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "b7893e8e-e512-4826-b52e-c98980ef2074"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.393Z",
+  "updated": "2022-04-18T15:39:24.393Z",
+  "size": 127,
+  "md5Hash": "Lg9qUVgRb3H055+fR77GXA==",
+  "crc32c": "2259891958"
+}

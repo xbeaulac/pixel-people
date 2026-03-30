@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-purple-tuxedo.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327430,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "1097a231-7b8d-4be9-b538-543353ade602"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.430Z",
+  "updated": "2022-04-18T15:38:47.430Z",
+  "size": 235,
+  "md5Hash": "8KJCDLkwmvOJHoM8nHTXNg==",
+  "crc32c": "2477610417"
+}

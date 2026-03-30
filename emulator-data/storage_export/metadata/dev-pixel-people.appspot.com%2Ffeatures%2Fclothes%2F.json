@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "text/plain",
+  "metageneration": 1,
+  "generation": 1650296261362,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "4733b4b1-bfdf-4658-8d9c-7644f75e7134"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:37:41.362Z",
+  "updated": "2022-04-18T15:37:41.362Z",
+  "size": 0,
+  "md5Hash": "1B2M2Y8AsgTpgAmY7PhCfg==",
+  "crc32c": "0"
+}

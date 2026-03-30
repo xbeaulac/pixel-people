@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-brown-sad.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351872,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "03d926c9-8c55-47fb-bee9-aca1846455c9"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.872Z",
+  "updated": "2022-04-18T15:39:11.872Z",
+  "size": 502,
+  "md5Hash": "xFQcexdiqPwJow2HH9tMXw==",
+  "crc32c": "2338181478"
+}

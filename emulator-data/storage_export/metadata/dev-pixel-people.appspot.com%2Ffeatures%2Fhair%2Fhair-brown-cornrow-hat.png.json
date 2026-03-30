@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-cornrow-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402016,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "86988db6-3791-4044-802f-87626bea34ce"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.016Z",
+  "updated": "2022-04-18T15:40:02.016Z",
+  "size": 171,
+  "md5Hash": "HytALkpH3ILpR1XiORhK+A==",
+  "crc32c": "3282851612"
+}

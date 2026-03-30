@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-grey-hoodie.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327476,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "a63c9efe-9209-4a67-80d1-bf26e404b3f1"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.476Z",
+  "updated": "2022-04-18T15:38:47.476Z",
+  "size": 187,
+  "md5Hash": "eHlxvSFbVtMjS3DVcZIP0A==",
+  "crc32c": "1864205038"
+}

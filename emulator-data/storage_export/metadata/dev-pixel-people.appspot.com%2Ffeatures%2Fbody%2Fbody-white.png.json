@@ -1,0 +1,20 @@
+{
+  "name": "features/body/body-white.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296315686,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "31acbbb4-5ce3-4834-8d74-ff6c8ef0c8e2"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:35.686Z",
+  "updated": "2022-04-18T15:38:35.686Z",
+  "size": 549,
+  "md5Hash": "KwGvlbUMaL6xQhzfl8IuNQ==",
+  "crc32c": "1866284196"
+}

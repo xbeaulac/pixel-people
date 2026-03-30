@@ -1,0 +1,20 @@
+{
+  "name": "features/nose/nose-white.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296436145,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "94857a61-3800-463d-9dcf-f00173dbea28"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:36.145Z",
+  "updated": "2022-04-18T15:40:36.145Z",
+  "size": 490,
+  "md5Hash": "Z7cTsYPrXRohbUBqOiXgAg==",
+  "crc32c": "690556578"
+}

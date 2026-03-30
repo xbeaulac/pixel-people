@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-blue-varsity.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327501,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "c3d15e74-3abc-4a47-a8b6-5515cfe9ca00"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.501Z",
+  "updated": "2022-04-18T15:38:47.501Z",
+  "size": 243,
+  "md5Hash": "6cata41Yn2vAgS4QW/xvwg==",
+  "crc32c": "1260893237"
+}

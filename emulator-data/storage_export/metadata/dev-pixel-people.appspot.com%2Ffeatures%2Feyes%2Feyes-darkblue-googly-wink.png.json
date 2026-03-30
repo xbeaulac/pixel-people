@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-darkblue-googly-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364366,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "540b7734-4766-4538-a4f8-4e8f8b3fa9e3"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.366Z",
+  "updated": "2022-04-18T15:39:24.366Z",
+  "size": 138,
+  "md5Hash": "IMkooLZ9L4W3fkZ4fTJLrA==",
+  "crc32c": "1845567402"
+}

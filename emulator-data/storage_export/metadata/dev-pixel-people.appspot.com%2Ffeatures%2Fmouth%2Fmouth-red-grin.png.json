@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-red-grin.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429389,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "03eb87c2-65e3-4ff3-8b98-8b161698ab1e"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.389Z",
+  "updated": "2022-04-18T15:40:29.389Z",
+  "size": 528,
+  "md5Hash": "W8+YNr1HnXRIRSnyDZHPDQ==",
+  "crc32c": "1030041950"
+}

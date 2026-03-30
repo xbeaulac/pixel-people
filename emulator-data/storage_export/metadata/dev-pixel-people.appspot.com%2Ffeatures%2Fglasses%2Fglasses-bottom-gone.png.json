@@ -1,0 +1,20 @@
+{
+  "name": "features/glasses/glasses-bottom-gone.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296395901,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "1f830564-7cad-4288-bc15-3d5397b28f01"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:55.901Z",
+  "updated": "2022-04-18T15:39:55.901Z",
+  "size": 530,
+  "md5Hash": "X4/1Vy8nwD9x/vL1pQC1YA==",
+  "crc32c": "3243564424"
+}

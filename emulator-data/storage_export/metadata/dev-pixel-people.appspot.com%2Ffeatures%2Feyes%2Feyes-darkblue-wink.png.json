@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-darkblue-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364544,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "cda74e5c-be5d-49f1-9fff-ad63aa620fb7"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.544Z",
+  "updated": "2022-04-18T15:39:24.544Z",
+  "size": 554,
+  "md5Hash": "Mr4efh1MbINzsfsBK8kkww==",
+  "crc32c": "1204092800"
+}

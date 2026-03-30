@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-open.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429459,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "472b87c6-74e2-4e88-b36d-0419f7bfb516"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.459Z",
+  "updated": "2022-04-18T15:40:29.459Z",
+  "size": 136,
+  "md5Hash": "Wg4U92qB7ABWE5t0IvHphA==",
+  "crc32c": "1082305657"
+}

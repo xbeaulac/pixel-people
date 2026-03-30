@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blond-slick.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402266,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "7868c495-f81a-4680-b6e0-484993c09df7"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.266Z",
+  "updated": "2022-04-18T15:40:02.266Z",
+  "size": 226,
+  "md5Hash": "B2lwcB2aiXz8ErwthPHdNQ==",
+  "crc32c": "998432090"
+}

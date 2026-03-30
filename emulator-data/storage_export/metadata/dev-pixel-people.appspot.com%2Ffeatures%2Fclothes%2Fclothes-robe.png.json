@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-robe.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327479,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "e4e8222c-9013-45ff-ae11-7d888c32edb3"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.479Z",
+  "updated": "2022-04-18T15:38:47.479Z",
+  "size": 249,
+  "md5Hash": "8hmTFyLkjzPo3XghfXrztQ==",
+  "crc32c": "539655103"
+}

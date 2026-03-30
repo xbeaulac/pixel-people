@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-green-bloodshot.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364364,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "71944637-1f67-432d-a69c-61fbe98e7917"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.364Z",
+  "updated": "2022-04-18T15:39:24.364Z",
+  "size": 530,
+  "md5Hash": "GCl9VxSNQ55c0+nAbHKv9w==",
+  "crc32c": "1817137588"
+}

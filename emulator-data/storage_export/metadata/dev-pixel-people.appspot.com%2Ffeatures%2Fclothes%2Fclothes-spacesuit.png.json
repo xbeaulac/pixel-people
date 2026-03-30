@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-spacesuit.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327486,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "fa06dfaa-5674-4e34-a2ce-d331365bff0a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.486Z",
+  "updated": "2022-04-18T15:38:47.486Z",
+  "size": 320,
+  "md5Hash": "4mFT4Dwm0CEIM+4cI81f/A==",
+  "crc32c": "2024333384"
+}

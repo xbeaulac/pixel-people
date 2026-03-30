@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-medium-top-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402021,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "0bd910cf-be52-49a2-ae6d-3c62d56a9759"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.021Z",
+  "updated": "2022-04-18T15:40:02.021Z",
+  "size": 165,
+  "md5Hash": "LLrjhDVplhiDoFqbqOeTtw==",
+  "crc32c": "2645137871"
+}

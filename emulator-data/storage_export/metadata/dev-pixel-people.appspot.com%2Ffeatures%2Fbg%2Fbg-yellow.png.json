@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-yellow.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306856,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "e4e93057-3f49-4f3f-adc6-5a7e97501720"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.856Z",
+  "updated": "2022-04-18T15:38:26.856Z",
+  "size": 120,
+  "md5Hash": "JmsVNASSuWwm0eU3AkjNWw==",
+  "crc32c": "3129337523"
+}

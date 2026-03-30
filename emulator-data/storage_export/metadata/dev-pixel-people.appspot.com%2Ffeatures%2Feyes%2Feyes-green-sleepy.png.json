@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-green-sleepy.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364515,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "82c865ea-0b63-4306-94f3-b8b144999198"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.515Z",
+  "updated": "2022-04-18T15:39:24.515Z",
+  "size": 507,
+  "md5Hash": "u54lybvfyFh/y1gA4gayDA==",
+  "crc32c": "537224813"
+}

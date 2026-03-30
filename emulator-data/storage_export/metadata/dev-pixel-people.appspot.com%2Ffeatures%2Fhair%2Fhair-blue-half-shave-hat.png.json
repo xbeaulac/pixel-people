@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blue-half-shave-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402286,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "13932d27-5926-4f54-a55a-d5a4ddb9e275"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.286Z",
+  "updated": "2022-04-18T15:40:02.286Z",
+  "size": 249,
+  "md5Hash": "eQ9TaYil1ExoUWtoKDvAGg==",
+  "crc32c": "1514549694"
+}

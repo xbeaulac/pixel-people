@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-lightblue-starry-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364396,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "4b50a7ed-5ff8-4568-8009-38712c95a9e9"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.396Z",
+  "updated": "2022-04-18T15:39:24.396Z",
+  "size": 132,
+  "md5Hash": "5h3z9dnOBq+EHtYQsJzEwA==",
+  "crc32c": "4273829480"
+}

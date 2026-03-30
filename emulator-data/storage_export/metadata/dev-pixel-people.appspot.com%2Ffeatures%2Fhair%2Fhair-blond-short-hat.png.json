@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blond-short-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402043,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "27c1adec-60ff-4f45-9425-10d1f82657f6"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.043Z",
+  "updated": "2022-04-18T15:40:02.043Z",
+  "size": 155,
+  "md5Hash": "RLKur+VtpbvtuXeLfagntg==",
+  "crc32c": "3813820055"
+}

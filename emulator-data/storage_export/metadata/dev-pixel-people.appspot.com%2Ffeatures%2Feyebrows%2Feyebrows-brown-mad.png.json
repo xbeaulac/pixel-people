@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-brown-mad.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351862,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "981e69f9-6cd8-41a9-b47d-1ae6ca083b81"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.862Z",
+  "updated": "2022-04-18T15:39:11.862Z",
+  "size": 500,
+  "md5Hash": "Nw5F3bCs29u37QFpibDWEA==",
+  "crc32c": "296398787"
+}

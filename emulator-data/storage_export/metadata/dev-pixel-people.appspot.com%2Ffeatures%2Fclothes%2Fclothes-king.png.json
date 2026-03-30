@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-king.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327507,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "44fecd3a-2680-4cfb-ba9b-4f5957ca324f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.507Z",
+  "updated": "2022-04-18T15:38:47.507Z",
+  "size": 295,
+  "md5Hash": "EAnLmbHHwygppdPgW+uVGw==",
+  "crc32c": "1235878532"
+}

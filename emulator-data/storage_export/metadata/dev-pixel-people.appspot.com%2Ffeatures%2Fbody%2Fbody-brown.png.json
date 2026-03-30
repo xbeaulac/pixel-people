@@ -1,0 +1,20 @@
+{
+  "name": "features/body/body-brown.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296315698,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "4dbf8af1-9af2-4cce-929d-42a440d9f71c"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:35.698Z",
+  "updated": "2022-04-18T15:38:35.698Z",
+  "size": 548,
+  "md5Hash": "tePqYEJf6Glr0HX9nnbfdA==",
+  "crc32c": "2517817199"
+}

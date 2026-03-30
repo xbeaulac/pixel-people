@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-grey-crossed.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364385,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "014ed4b0-c3b6-487d-bf95-41a018828166"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.385Z",
+  "updated": "2022-04-18T15:39:24.385Z",
+  "size": 139,
+  "md5Hash": "K51zwp49XwV4Xa4n1DgwAA==",
+  "crc32c": "1783721423"
+}

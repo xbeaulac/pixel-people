@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-river2.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306823,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "f25d09e1-8114-4bf9-80a5-4046e1da3061"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.823Z",
+  "updated": "2022-04-18T15:38:26.823Z",
+  "size": 928,
+  "md5Hash": "WAuV3VhlU/7BCZ0A3IKGvg==",
+  "crc32c": "3576301931"
+}

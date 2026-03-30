@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-grey-bloodshot-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364420,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d7d0628f-3a09-4fa3-8ee4-298f33135811"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.420Z",
+  "updated": "2022-04-18T15:39:24.420Z",
+  "size": 138,
+  "md5Hash": "FpOgvGXUlxpAUYDvqvuY0g==",
+  "crc32c": "3865341017"
+}

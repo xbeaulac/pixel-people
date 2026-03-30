@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-green.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306750,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "f1e2c029-33c6-4077-aade-a76df243178a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.750Z",
+  "updated": "2022-04-18T15:38:26.750Z",
+  "size": 121,
+  "md5Hash": "izXmErdh9LSzhE7iXnTAvA==",
+  "crc32c": "3724178828"
+}

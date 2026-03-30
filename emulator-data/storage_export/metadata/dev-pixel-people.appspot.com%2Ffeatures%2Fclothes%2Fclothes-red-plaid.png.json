@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-red-plaid.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327466,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "509bb03d-1552-47a1-ac5f-4ec3bcd5dab3"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.466Z",
+  "updated": "2022-04-18T15:38:47.466Z",
+  "size": 254,
+  "md5Hash": "p0xvF6vpLAaZwEaDAlCObQ==",
+  "crc32c": "1350887044"
+}

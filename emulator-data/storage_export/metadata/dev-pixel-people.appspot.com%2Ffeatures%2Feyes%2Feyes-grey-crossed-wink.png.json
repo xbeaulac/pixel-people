@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-grey-crossed-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364477,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "51387724-f12a-44f8-928a-ca205318ecd2"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.477Z",
+  "updated": "2022-04-18T15:39:24.477Z",
+  "size": 137,
+  "md5Hash": "EjPaBenvdgnMLC+DaW2YrA==",
+  "crc32c": "3964490086"
+}

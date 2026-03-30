@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blond-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402079,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "f5784f1f-2764-4a48-9f53-7d8df9e45075"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.079Z",
+  "updated": "2022-04-18T15:40:02.079Z",
+  "size": 247,
+  "md5Hash": "HVsmQPueIgjMvNz1fGdqtQ==",
+  "crc32c": "2921822826"
+}

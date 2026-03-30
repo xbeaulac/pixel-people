@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-baseball.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410145,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "ecc3fcd3-088c-478b-a454-58d4b169bc75"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.145Z",
+  "updated": "2022-04-18T15:40:10.145Z",
+  "size": 228,
+  "md5Hash": "p1BadJs98Dpxk+UaJX4jrA==",
+  "crc32c": "2150458517"
+}

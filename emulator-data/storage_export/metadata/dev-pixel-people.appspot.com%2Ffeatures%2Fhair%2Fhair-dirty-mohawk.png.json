@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-dirty-mohawk.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402271,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d553844c-01d7-4afc-a7b5-fbeefe41d452"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.271Z",
+  "updated": "2022-04-18T15:40:02.271Z",
+  "size": 182,
+  "md5Hash": "getsuVRubArqit0SHQHHPg==",
+  "crc32c": "660328967"
+}

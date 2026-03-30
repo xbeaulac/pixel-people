@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-leprechaun.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410119,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "80cf1193-7e65-47a5-be68-6eed6341aa95"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.119Z",
+  "updated": "2022-04-18T15:40:10.119Z",
+  "size": 258,
+  "md5Hash": "r3/4Q3XvVU3/cRlD3Ohe7A==",
+  "crc32c": "24097868"
+}

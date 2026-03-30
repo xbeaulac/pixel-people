@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-black-down.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351830,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "743729cf-4714-49a2-bbdd-6aaaebd7cca7"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.830Z",
+  "updated": "2022-04-18T15:39:11.830Z",
+  "size": 504,
+  "md5Hash": "YREEn1X0rO+FD0++v5UP9g==",
+  "crc32c": "2058504185"
+}

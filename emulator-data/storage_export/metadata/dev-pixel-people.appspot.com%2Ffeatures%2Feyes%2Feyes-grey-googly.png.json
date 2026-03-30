@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-grey-googly.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364540,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "5e6c427e-9e14-45af-b5bd-7b2e6a9f3f21"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.540Z",
+  "updated": "2022-04-18T15:39:24.540Z",
+  "size": 140,
+  "md5Hash": "k4k10wGcK1cnRsw7zNqLBw==",
+  "crc32c": "2440927690"
+}

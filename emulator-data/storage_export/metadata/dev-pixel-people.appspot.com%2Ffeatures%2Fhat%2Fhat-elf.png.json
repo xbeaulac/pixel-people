@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-elf.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410121,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "e0dfc75b-a0fb-411f-8e36-f161eecbce92"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.121Z",
+  "updated": "2022-04-18T15:40:10.121Z",
+  "size": 288,
+  "md5Hash": "tsomWr8lwCpbwY4AzEQlYQ==",
+  "crc32c": "1271662909"
+}

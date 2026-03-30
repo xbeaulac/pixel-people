@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-white-plaid.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327475,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "a0c24c65-06d5-4ed5-b1dc-8e630855276a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.475Z",
+  "updated": "2022-04-18T15:38:47.475Z",
+  "size": 241,
+  "md5Hash": "ieMBsNXD4ylVRJn0Yjj13w==",
+  "crc32c": "3624164179"
+}

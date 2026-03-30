@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blond-messy-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402272,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "b10f4b3e-5345-4ddd-8cd7-6e241187a538"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.272Z",
+  "updated": "2022-04-18T15:40:02.272Z",
+  "size": 254,
+  "md5Hash": "K6V2EJOh30DNDTW3eC+wfA==",
+  "crc32c": "2891230956"
+}

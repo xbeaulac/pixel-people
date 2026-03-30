@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-lightblue-crossed.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364375,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "e17a7b38-280d-41cf-adfd-e0bfb0dad0aa"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.375Z",
+  "updated": "2022-04-18T15:39:24.375Z",
+  "size": 141,
+  "md5Hash": "PImn0NbVrCO+LVl4SbaJdQ==",
+  "crc32c": "2594758932"
+}

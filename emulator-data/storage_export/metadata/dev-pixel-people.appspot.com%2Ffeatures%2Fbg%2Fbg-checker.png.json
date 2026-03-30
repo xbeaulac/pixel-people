@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-checker.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306836,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "82bb6201-c314-40c6-9ad7-46529e0ffd88"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.836Z",
+  "updated": "2022-04-18T15:38:26.836Z",
+  "size": 143,
+  "md5Hash": "9Ku5imkcsKvsiTG+RTBU5A==",
+  "crc32c": "2067927804"
+}

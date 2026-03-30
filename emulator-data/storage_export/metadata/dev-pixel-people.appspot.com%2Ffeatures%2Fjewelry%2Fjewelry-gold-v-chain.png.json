@@ -1,0 +1,20 @@
+{
+  "name": "features/jewelry/jewelry-gold-v-chain.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296423257,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "2a07a94c-d1cd-4104-a371-7867c5fcde03"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:23.257Z",
+  "updated": "2022-04-18T15:40:23.257Z",
+  "size": 140,
+  "md5Hash": "uBjLDB2iuu+hWF4gcupRkw==",
+  "crc32c": "2161855359"
+}

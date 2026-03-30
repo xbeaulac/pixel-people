@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-waves-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402281,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "dbfe875e-c0e2-481a-a1d1-6b9e2050da65"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.281Z",
+  "updated": "2022-04-18T15:40:02.281Z",
+  "size": 170,
+  "md5Hash": "HIQRT1WxV23D3otkhSxHAQ==",
+  "crc32c": "2415760570"
+}

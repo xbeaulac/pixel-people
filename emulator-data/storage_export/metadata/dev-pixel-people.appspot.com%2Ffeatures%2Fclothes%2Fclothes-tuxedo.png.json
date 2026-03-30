@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-tuxedo.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327482,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d1adc8f1-3cb4-4c36-b624-b1e22f496bed"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.482Z",
+  "updated": "2022-04-18T15:38:47.482Z",
+  "size": 599,
+  "md5Hash": "oxH+Bth+TYi8KB6TDQANWA==",
+  "crc32c": "1745885607"
+}

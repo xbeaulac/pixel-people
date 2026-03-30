@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blond-messy.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402196,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "9918a95d-f536-4afa-878c-c4ea49966594"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.196Z",
+  "updated": "2022-04-18T15:40:02.196Z",
+  "size": 753,
+  "md5Hash": "7XpdPYvcX6+GyRLTJrTmfg==",
+  "crc32c": "1489633314"
+}

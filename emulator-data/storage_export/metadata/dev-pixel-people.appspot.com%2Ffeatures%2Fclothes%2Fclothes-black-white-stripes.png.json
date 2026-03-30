@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-black-white-stripes.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327522,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "10276f6d-3a52-4334-9b1a-e58cc6a6643a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.522Z",
+  "updated": "2022-04-18T15:38:47.522Z",
+  "size": 583,
+  "md5Hash": "pF7L2BGjeEEVn47t4zM53w==",
+  "crc32c": "1275810474"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-green-bloodshot-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364554,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d008e7a7-0495-4d65-9c4b-241309c809ac"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.554Z",
+  "updated": "2022-04-18T15:39:24.554Z",
+  "size": 142,
+  "md5Hash": "CLeX9Uq0xz8EOLjx20pf1Q==",
+  "crc32c": "2927490060"
+}

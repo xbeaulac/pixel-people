@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-green-varsity.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327513,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d4788f55-6c47-400c-aa25-4edc2613037e"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.513Z",
+  "updated": "2022-04-18T15:38:47.513Z",
+  "size": 261,
+  "md5Hash": "yxlt78BmRKSnK5yd54Cjpg==",
+  "crc32c": "3125892580"
+}

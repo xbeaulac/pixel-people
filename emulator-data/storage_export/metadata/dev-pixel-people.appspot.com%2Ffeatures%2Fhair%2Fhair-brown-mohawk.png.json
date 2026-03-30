@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-mohawk.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402189,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "8112da77-7ba8-497f-9ff0-0c5a88bfd663"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.189Z",
+  "updated": "2022-04-18T15:40:02.189Z",
+  "size": 181,
+  "md5Hash": "cttZdxT8HI9nE/6HxqT7mQ==",
+  "crc32c": "3465475308"
+}

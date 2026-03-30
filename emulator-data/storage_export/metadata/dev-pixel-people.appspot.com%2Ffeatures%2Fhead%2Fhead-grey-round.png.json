@@ -1,0 +1,20 @@
+{
+  "name": "features/head/head-grey-round.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296416791,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "3aa42662-e1ce-440c-82c1-d32afdc16029"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:16.791Z",
+  "updated": "2022-04-18T15:40:16.791Z",
+  "size": 229,
+  "md5Hash": "P/gtF0HFBrPtbBsqRjLdZg==",
+  "crc32c": "2303257321"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-grey-sleepy.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364361,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "b74da29d-141a-4405-9b56-bad74f24660c"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.361Z",
+  "updated": "2022-04-18T15:39:24.361Z",
+  "size": 507,
+  "md5Hash": "PvJVmRp1rv5QoBH1X+5FVg==",
+  "crc32c": "1987700190"
+}

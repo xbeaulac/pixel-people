@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-black-up.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351825,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "cdf5f318-b493-4cd9-bf11-644dff5b2ac7"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.825Z",
+  "updated": "2022-04-18T15:39:11.825Z",
+  "size": 504,
+  "md5Hash": "JOHwl2DidWPEZzK6QaIk/Q==",
+  "crc32c": "3750527457"
+}

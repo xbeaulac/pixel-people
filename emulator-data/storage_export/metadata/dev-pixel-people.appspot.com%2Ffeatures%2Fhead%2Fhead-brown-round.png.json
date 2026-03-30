@@ -1,0 +1,20 @@
+{
+  "name": "features/head/head-brown-round.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296416797,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "1f70f649-de01-48ed-b65b-183124505868"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:16.797Z",
+  "updated": "2022-04-18T15:40:16.797Z",
+  "size": 208,
+  "md5Hash": "MvC03+rEYYYAkhjobOE/EQ==",
+  "crc32c": "2272216283"
+}

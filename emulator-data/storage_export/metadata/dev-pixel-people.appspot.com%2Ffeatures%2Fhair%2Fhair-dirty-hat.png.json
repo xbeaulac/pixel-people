@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-dirty-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402151,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "2850ed67-aa22-412c-a09d-c4558dc9b8a1"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.151Z",
+  "updated": "2022-04-18T15:40:02.151Z",
+  "size": 264,
+  "md5Hash": "ECsmyz8StsBbkQ1iJA3Hig==",
+  "crc32c": "3381592026"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-lightblue-googly-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364381,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "76a23e19-0764-479c-94f0-99f946dd601e"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.381Z",
+  "updated": "2022-04-18T15:39:24.381Z",
+  "size": 139,
+  "md5Hash": "2datCkLmRvfo7V65/PEBFw==",
+  "crc32c": "25968395"
+}

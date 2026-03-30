@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-grey-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364597,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "b394ca93-75f8-480d-a855-7dc24ae431ff"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.597Z",
+  "updated": "2022-04-18T15:39:24.597Z",
+  "size": 533,
+  "md5Hash": "a5d2ip66nwxBj2Jx4T1IgA==",
+  "crc32c": "2020943665"
+}

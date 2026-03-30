@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blond-slick-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402041,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "87f0c3a9-eb6c-4c47-8a21-c576b9fb813a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.041Z",
+  "updated": "2022-04-18T15:40:02.041Z",
+  "size": 134,
+  "md5Hash": "q+vjUCA86Z1Snxy/MC8LeA==",
+  "crc32c": "2865125280"
+}

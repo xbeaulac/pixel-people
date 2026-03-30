@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blond-mohawk.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402106,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "8ecf8d99-a562-4107-915e-527a3d3af672"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.106Z",
+  "updated": "2022-04-18T15:40:02.106Z",
+  "size": 184,
+  "md5Hash": "GyiRewP8z324QoWZFFTEuw==",
+  "crc32c": "3964636212"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-red-bloodshot.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364329,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "a31dfdfa-a1b1-4876-b16a-466eb42e31f4"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.329Z",
+  "updated": "2022-04-18T15:39:24.329Z",
+  "size": 524,
+  "md5Hash": "AZXuyXahlGb4xETFDcrH9w==",
+  "crc32c": "1833738957"
+}

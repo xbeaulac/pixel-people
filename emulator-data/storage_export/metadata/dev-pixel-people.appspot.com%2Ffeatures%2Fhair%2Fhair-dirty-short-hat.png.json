@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-dirty-short-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402147,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "7a632e41-1096-4f3e-a9b0-e3ea0b3425de"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.147Z",
+  "updated": "2022-04-18T15:40:02.147Z",
+  "size": 170,
+  "md5Hash": "Tx4dlj96UCXBExzmjY2Mrw==",
+  "crc32c": "601593202"
+}

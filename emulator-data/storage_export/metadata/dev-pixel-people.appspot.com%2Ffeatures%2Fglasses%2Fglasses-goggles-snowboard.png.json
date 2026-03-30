@@ -1,0 +1,20 @@
+{
+  "name": "features/glasses/glasses-goggles-snowboard.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296395858,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "4a0aa00c-e3a6-452d-ae14-2565b84603b6"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:55.858Z",
+  "updated": "2022-04-18T15:39:55.858Z",
+  "size": 591,
+  "md5Hash": "o+7RBoqIkU8mnXS+0nzZrA==",
+  "crc32c": "2656456570"
+}

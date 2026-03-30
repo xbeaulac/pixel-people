@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-tie-dye.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327510,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d78e529d-1d5e-44aa-a957-ff683045f653"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.510Z",
+  "updated": "2022-04-18T15:38:47.510Z",
+  "size": 348,
+  "md5Hash": "T8TOeNvDjs748yjFipt94g==",
+  "crc32c": "3143750449"
+}

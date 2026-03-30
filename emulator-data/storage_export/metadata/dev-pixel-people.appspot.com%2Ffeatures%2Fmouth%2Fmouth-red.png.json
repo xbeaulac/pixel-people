@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-red.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429424,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "2b39cb31-357a-47c1-9055-958f5249fd6b"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.424Z",
+  "updated": "2022-04-18T15:40:29.424Z",
+  "size": 525,
+  "md5Hash": "8eVxyqOiEZrPNEsVoH1P5A==",
+  "crc32c": "1671290846"
+}

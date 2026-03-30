@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-black-frown.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429455,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "8f7d9a18-66e9-4864-b6b5-1b5a773b72e1"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.455Z",
+  "updated": "2022-04-18T15:40:29.455Z",
+  "size": 126,
+  "md5Hash": "Tw9TvF3w0DjrE+r+/8QDug==",
+  "crc32c": "261700737"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-suspenders.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327511,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "c99d6348-584d-4640-96a6-8af0b5ab34b7"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.511Z",
+  "updated": "2022-04-18T15:38:47.511Z",
+  "size": 251,
+  "md5Hash": "VyR7QiwuZdxG2rX9KiZ7Nw==",
+  "crc32c": "1740103285"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-dirty-messy.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402104,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "5b5bed45-1c39-4f91-ac66-402893327ae5"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.104Z",
+  "updated": "2022-04-18T15:40:02.104Z",
+  "size": 420,
+  "md5Hash": "pmTLKOXbiBgHDp0Tj1eoiw==",
+  "crc32c": "2474193351"
+}

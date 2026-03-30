@@ -1,0 +1,20 @@
+{
+  "name": "features/nose/nose-brown-long.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296436160,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "9c5e7da1-299a-488c-800d-ae18fb0bbcf6"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:36.160Z",
+  "updated": "2022-04-18T15:40:36.160Z",
+  "size": 496,
+  "md5Hash": "Q6+6GujJ+/tFt5g+f81V5g==",
+  "crc32c": "3127986516"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-red-starry.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364334,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "c9f418b9-4c6c-40c8-9f92-34a149c499ec"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.334Z",
+  "updated": "2022-04-18T15:39:24.334Z",
+  "size": 153,
+  "md5Hash": "7MAU0RxpDYM+xNI+lR/AAQ==",
+  "crc32c": "1202176322"
+}

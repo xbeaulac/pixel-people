@@ -1,0 +1,20 @@
+{
+  "name": "features/jewelry/jewelry-diamond-chain.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296423262,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d7735c37-e2a9-4ee6-8c6e-0b72e2b1c0c2"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:23.262Z",
+  "updated": "2022-04-18T15:40:23.262Z",
+  "size": 157,
+  "md5Hash": "oAp2830iTMgQ3a35HA9Ovw==",
+  "crc32c": "473312355"
+}

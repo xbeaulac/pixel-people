@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-brown-grin.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429411,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "068c35d2-4dc4-41ad-af13-81b5a42963d1"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.411Z",
+  "updated": "2022-04-18T15:40:29.411Z",
+  "size": 121,
+  "md5Hash": "kLbPQ6LUWw9GVVPRjV4Lgg==",
+  "crc32c": "4210824085"
+}

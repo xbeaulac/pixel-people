@@ -1,0 +1,20 @@
+{
+  "name": "features/glasses/glasses-small.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296395881,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "c40b8d0d-c481-499d-a3f6-50442d6adf80"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:55.881Z",
+  "updated": "2022-04-18T15:39:55.881Z",
+  "size": 535,
+  "md5Hash": "vxRpygb33LKZin9UkqkqaQ==",
+  "crc32c": "266616801"
+}

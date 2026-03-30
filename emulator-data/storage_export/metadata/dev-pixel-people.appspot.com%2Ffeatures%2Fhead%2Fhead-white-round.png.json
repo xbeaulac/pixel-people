@@ -1,0 +1,20 @@
+{
+  "name": "features/head/head-white-round.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296416819,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "ac16b5f9-cb68-4330-8299-2ca1b6cad207"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:16.819Z",
+  "updated": "2022-04-18T15:40:16.819Z",
+  "size": 208,
+  "md5Hash": "h5hr2R+Gr+Kn1j75gPHxMQ==",
+  "crc32c": "405523064"
+}

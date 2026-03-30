@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-desert1.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306748,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "a7738b20-678d-49c8-8311-1ed899444bf5"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.748Z",
+  "updated": "2022-04-18T15:38:26.748Z",
+  "size": 779,
+  "md5Hash": "xAYZBIWUYRNGuuoHLlCFQA==",
+  "crc32c": "3067299925"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-short-top.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402118,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "3e215621-b49d-412e-93f0-36987635f603"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.118Z",
+  "updated": "2022-04-18T15:40:02.118Z",
+  "size": 226,
+  "md5Hash": "LUP6yeY0pHz+3zvSFd+xiA==",
+  "crc32c": "652498756"
+}

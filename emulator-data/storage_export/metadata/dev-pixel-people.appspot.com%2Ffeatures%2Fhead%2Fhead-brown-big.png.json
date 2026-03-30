@@ -1,0 +1,20 @@
+{
+  "name": "features/head/head-brown-big.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296416801,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "0467e7b5-4ba9-45d2-a86a-6d29a0d89385"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:16.801Z",
+  "updated": "2022-04-18T15:40:16.801Z",
+  "size": 580,
+  "md5Hash": "hMsosqB3WVluqPGjRe2aKA==",
+  "crc32c": "848737634"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/glasses/glasses-3d.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296395893,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d898ac9f-3d22-4a52-9db1-07c223b8ddd2"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:55.893Z",
+  "updated": "2022-04-18T15:39:55.893Z",
+  "size": 550,
+  "md5Hash": "Alpol0OYYriJxnBHr+VDcw==",
+  "crc32c": "1678014813"
+}

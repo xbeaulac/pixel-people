@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-brown-down.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351850,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "3abf8e88-a7e1-42b5-a873-36f759ed3b6c"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.850Z",
+  "updated": "2022-04-18T15:39:11.850Z",
+  "size": 505,
+  "md5Hash": "MqFnKyfbF8+W6zI6N65ZSQ==",
+  "crc32c": "3480224905"
+}

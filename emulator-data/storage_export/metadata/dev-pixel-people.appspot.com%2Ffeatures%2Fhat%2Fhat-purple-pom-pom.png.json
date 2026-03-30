@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-purple-pom-pom.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410142,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "488222ee-3b4b-492a-899f-32d6c467e541"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.142Z",
+  "updated": "2022-04-18T15:40:10.142Z",
+  "size": 250,
+  "md5Hash": "DEeHa5Ds965W09EVYQys0g==",
+  "crc32c": "2874149564"
+}

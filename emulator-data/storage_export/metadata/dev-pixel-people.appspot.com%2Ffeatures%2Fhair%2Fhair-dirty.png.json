@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-dirty.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402116,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "89bd6205-35ee-4cca-961a-37de33a81b18"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.116Z",
+  "updated": "2022-04-18T15:40:02.116Z",
+  "size": 380,
+  "md5Hash": "+o/5zWPqz69zVLv2REgq4Q==",
+  "crc32c": "3842881161"
+}

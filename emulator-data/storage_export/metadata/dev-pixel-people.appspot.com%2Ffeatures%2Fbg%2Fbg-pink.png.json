@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-pink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306832,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "a50583b4-1de9-4bfb-8b3b-306be942e08a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.832Z",
+  "updated": "2022-04-18T15:38:26.832Z",
+  "size": 121,
+  "md5Hash": "IrhxSWMmVGHqRaRKq/JWrQ==",
+  "crc32c": "806624575"
+}

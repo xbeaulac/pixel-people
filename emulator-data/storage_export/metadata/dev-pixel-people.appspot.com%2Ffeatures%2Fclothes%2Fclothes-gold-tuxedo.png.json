@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-gold-tuxedo.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327480,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "5fd86877-3654-48d7-96ef-17a1e7ea042c"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.480Z",
+  "updated": "2022-04-18T15:38:47.480Z",
+  "size": 258,
+  "md5Hash": "dTfMqCdbFbkboskLCQjgLg==",
+  "crc32c": "1084117844"
+}

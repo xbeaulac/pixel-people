@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blond-short.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402280,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "1a589e19-edf2-4c4b-80a2-062c1020f311"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.280Z",
+  "updated": "2022-04-18T15:40:02.280Z",
+  "size": 252,
+  "md5Hash": "ZsHsQXsqLe8qLpv96q0f8Q==",
+  "crc32c": "1414532628"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-black-puffy-jacket.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327490,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "b50a631a-8ddf-48e5-ba5f-4b417b51e593"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.490Z",
+  "updated": "2022-04-18T15:38:47.490Z",
+  "size": 207,
+  "md5Hash": "XEu2AUakY3bDKDPu+1lkPw==",
+  "crc32c": "2687971263"
+}

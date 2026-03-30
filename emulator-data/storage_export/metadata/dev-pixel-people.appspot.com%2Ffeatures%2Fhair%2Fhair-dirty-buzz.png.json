@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-dirty-buzz.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402255,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "da1cae9c-2c20-4a49-af7e-9cbc825b02e6"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.255Z",
+  "updated": "2022-04-18T15:40:02.255Z",
+  "size": 191,
+  "md5Hash": "yEmR/pBAVeDNpQenRDuMgQ==",
+  "crc32c": "2387923571"
+}

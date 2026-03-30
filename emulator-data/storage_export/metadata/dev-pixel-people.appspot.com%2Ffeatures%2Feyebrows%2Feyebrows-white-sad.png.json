@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-white-sad.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351871,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "c9c75f37-5e3a-4f00-9794-932b01b1c8ff"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.871Z",
+  "updated": "2022-04-18T15:39:11.871Z",
+  "size": 502,
+  "md5Hash": "03/PGa93sLq6RIRAq6nzNA==",
+  "crc32c": "1512554022"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-blank.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364417,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "9d77bc1e-591f-48ad-97d5-e1e556122dbc"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.417Z",
+  "updated": "2022-04-18T15:39:24.417Z",
+  "size": 127,
+  "md5Hash": "5D3OSXnLbnQ/3DRDHCuiIw==",
+  "crc32c": "3584569472"
+}

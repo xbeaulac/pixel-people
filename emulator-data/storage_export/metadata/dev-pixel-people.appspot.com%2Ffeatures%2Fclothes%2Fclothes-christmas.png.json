@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-christmas.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327492,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "c4fe84e3-fae1-4d4c-8c9d-c2ba85025495"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.492Z",
+  "updated": "2022-04-18T15:38:47.492Z",
+  "size": 288,
+  "md5Hash": "WteGMPuBbTDRBAOUS6hirg==",
+  "crc32c": "1447779134"
+}

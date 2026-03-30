@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-red-googly.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364331,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "9496fd40-ffb3-4c44-9a9e-92da401f0600"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.331Z",
+  "updated": "2022-04-18T15:39:24.331Z",
+  "size": 147,
+  "md5Hash": "sfaD0EJ8SVmX5EKpVCUC8w==",
+  "crc32c": "1834793812"
+}

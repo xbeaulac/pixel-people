@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-chef.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410117,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "fd1e42a4-08a0-447c-af5c-a0678036170f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.117Z",
+  "updated": "2022-04-18T15:40:10.117Z",
+  "size": 154,
+  "md5Hash": "YnH9pyXeXGjXZLG4nL3DEQ==",
+  "crc32c": "2140657228"
+}

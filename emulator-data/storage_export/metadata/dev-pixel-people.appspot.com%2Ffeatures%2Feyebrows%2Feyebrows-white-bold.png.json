@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-white-bold.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351854,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "12fb1ede-f457-4cc7-b65b-959f49f58bab"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.854Z",
+  "updated": "2022-04-18T15:39:11.854Z",
+  "size": 512,
+  "md5Hash": "1E7R5NSUuEc1JJxt5t8d3w==",
+  "crc32c": "4294665831"
+}

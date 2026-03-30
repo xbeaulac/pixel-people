@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-space2.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306837,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "2a1b541c-da44-4b0e-b8d8-a9a842da707c"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.837Z",
+  "updated": "2022-04-18T15:38:26.837Z",
+  "size": 813,
+  "md5Hash": "rairM8+w+GaCwzP577lwNA==",
+  "crc32c": "511665402"
+}

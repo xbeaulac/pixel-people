@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-brown-starry-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364580,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "db2f094e-ed0c-4206-9db1-ea78a503091f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.580Z",
+  "updated": "2022-04-18T15:39:24.580Z",
+  "size": 132,
+  "md5Hash": "iHsH1gpLzKILiY5e+xLYuQ==",
+  "crc32c": "867015738"
+}

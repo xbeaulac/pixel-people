@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-orange.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306751,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "7d214369-ed6b-4cef-88c0-b993e2158edb"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.751Z",
+  "updated": "2022-04-18T15:38:26.751Z",
+  "size": 120,
+  "md5Hash": "AP6il/7QOhro5SKnklpUCQ==",
+  "crc32c": "1669713033"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-short-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402246,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "074984b0-91f1-4b92-8cf7-0e02af54c470"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.246Z",
+  "updated": "2022-04-18T15:40:02.246Z",
+  "size": 150,
+  "md5Hash": "7nHS2rd8q/VNCtUmOUXhVg==",
+  "crc32c": "3472063821"
+}

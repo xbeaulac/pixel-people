@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-aqua.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306849,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "8d08de9b-7507-480c-8b56-f15d4e6df724"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.849Z",
+  "updated": "2022-04-18T15:38:26.849Z",
+  "size": 120,
+  "md5Hash": "0eh+o+aQvZ4hxyKs8XRz/w==",
+  "crc32c": "1567071468"
+}

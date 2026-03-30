@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-brown-slit.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351879,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "f719d248-ffdd-4af3-b737-a97b59134843"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.879Z",
+  "updated": "2022-04-18T15:39:11.879Z",
+  "size": 513,
+  "md5Hash": "xAULsgX5hDzNAUKH352H6A==",
+  "crc32c": "3909801686"
+}

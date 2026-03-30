@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-ocean2.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306847,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "2c74183e-d1bc-4e23-a285-5824a27e939a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.847Z",
+  "updated": "2022-04-18T15:38:26.847Z",
+  "size": 747,
+  "md5Hash": "BC1S44Y4RYqgTM0WlEv3fg==",
+  "crc32c": "2371195129"
+}

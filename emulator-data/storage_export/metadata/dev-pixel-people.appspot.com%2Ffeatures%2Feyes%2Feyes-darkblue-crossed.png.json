@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-darkblue-crossed.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364388,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "54c39856-10ad-48a5-9e0b-c7edcb03efab"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.388Z",
+  "updated": "2022-04-18T15:39:24.388Z",
+  "size": 139,
+  "md5Hash": "MwTpNf8oCENtkTWwvLFetA==",
+  "crc32c": "2115943007"
+}

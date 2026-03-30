@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-santa.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410138,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "87c328ac-9282-499a-9827-9aac32c06540"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.138Z",
+  "updated": "2022-04-18T15:40:10.138Z",
+  "size": 295,
+  "md5Hash": "mH8lUY5fo5E2/z24pS9dHw==",
+  "crc32c": "3612708569"
+}

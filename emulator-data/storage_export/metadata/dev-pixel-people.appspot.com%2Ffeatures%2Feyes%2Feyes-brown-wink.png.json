@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-brown-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364587,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "880ad51c-e5c2-48bb-a57b-db48314d1a1c"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.587Z",
+  "updated": "2022-04-18T15:39:24.587Z",
+  "size": 531,
+  "md5Hash": "SdKZReZMonyqR9c++q2f5g==",
+  "crc32c": "3449643809"
+}

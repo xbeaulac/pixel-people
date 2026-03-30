@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-brown-googly-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364569,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "38a6810c-6c19-4b4d-b428-4658502d924a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.569Z",
+  "updated": "2022-04-18T15:39:24.569Z",
+  "size": 138,
+  "md5Hash": "jsAMibCPR371X7LZxsL3Xw==",
+  "crc32c": "771130407"
+}

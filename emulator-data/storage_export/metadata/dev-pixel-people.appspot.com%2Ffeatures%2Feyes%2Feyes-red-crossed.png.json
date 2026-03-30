@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-red-crossed.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364336,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "a3acfecf-e24d-494a-9e6f-7096e2e52144"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.336Z",
+  "updated": "2022-04-18T15:39:24.336Z",
+  "size": 141,
+  "md5Hash": "qJXznH7ESN0KXlbnvnNywg==",
+  "crc32c": "4058946965"
+}

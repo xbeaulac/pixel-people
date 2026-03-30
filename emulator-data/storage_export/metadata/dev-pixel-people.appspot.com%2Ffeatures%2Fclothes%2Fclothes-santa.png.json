@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-santa.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327442,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "13b3fe18-8f96-441b-9b34-0e8c8029c7b5"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.442Z",
+  "updated": "2022-04-18T15:38:47.442Z",
+  "size": 263,
+  "md5Hash": "kQBIEOw2qsht3Z6g/pHqbg==",
+  "crc32c": "682747736"
+}

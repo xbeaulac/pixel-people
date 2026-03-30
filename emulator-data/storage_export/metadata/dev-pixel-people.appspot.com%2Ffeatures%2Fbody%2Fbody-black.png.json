@@ -1,0 +1,20 @@
+{
+  "name": "features/body/body-black.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296315702,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "8f3c8d37-55a4-4305-906f-6362b77669fc"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:35.702Z",
+  "updated": "2022-04-18T15:38:35.702Z",
+  "size": 548,
+  "md5Hash": "/iPT31I17TBASO6UJMiXQA==",
+  "crc32c": "1222069196"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-curtain-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402263,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "5744d235-272f-42ef-8664-9e3f922498ab"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.263Z",
+  "updated": "2022-04-18T15:40:02.263Z",
+  "size": 236,
+  "md5Hash": "ws5nhGhZvTrJXcv5n+v9Cg==",
+  "crc32c": "817935135"
+}

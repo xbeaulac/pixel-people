@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-x.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364582,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "c1936ec8-97c4-4303-84b3-e6a87b89d27a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.582Z",
+  "updated": "2022-04-18T15:39:24.582Z",
+  "size": 507,
+  "md5Hash": "ZikWsTjRXLRQ8LsEvosG+w==",
+  "crc32c": "1475284661"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-blue.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306830,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "2bfa8f27-43d3-41aa-9c5a-ed6933da645f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.830Z",
+  "updated": "2022-04-18T15:38:26.830Z",
+  "size": 122,
+  "md5Hash": "8fx70+u6OigMPPi6zzttuQ==",
+  "crc32c": "4133689171"
+}

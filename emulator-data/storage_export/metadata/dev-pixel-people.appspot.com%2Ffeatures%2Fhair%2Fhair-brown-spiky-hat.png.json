@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-spiky-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402268,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "3b457662-321a-4436-88e7-6a1fd36c70b3"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.268Z",
+  "updated": "2022-04-18T15:40:02.268Z",
+  "size": 292,
+  "md5Hash": "FDKqDbfNt47M++D6hJV24Q==",
+  "crc32c": "1858499173"
+}

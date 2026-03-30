@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-green-crossed.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364398,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "af820967-9403-4d37-b4d0-ae218a9fed81"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.398Z",
+  "updated": "2022-04-18T15:39:24.398Z",
+  "size": 139,
+  "md5Hash": "Q+Or393VYePtbTZLUTlvaw==",
+  "crc32c": "2834659136"
+}

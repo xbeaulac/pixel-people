@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-red-starry-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364401,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "7c025988-d01d-4ded-8b01-3b9f482d7181"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.401Z",
+  "updated": "2022-04-18T15:39:24.401Z",
+  "size": 150,
+  "md5Hash": "B872skOmV0jystRmWF7JdA==",
+  "crc32c": "585334492"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/glasses/glasses-sunglasses.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296395887,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "e0510498-beb6-479c-a6d9-a844b8223169"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:55.887Z",
+  "updated": "2022-04-18T15:39:55.887Z",
+  "size": 519,
+  "md5Hash": "O+gjdxHJC5AMzgKATgyZxg==",
+  "crc32c": "1535739510"
+}

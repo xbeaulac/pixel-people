@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-lightblue.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364550,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "da6749eb-503d-42d5-9b3f-866b6716de1d"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.550Z",
+  "updated": "2022-04-18T15:39:24.550Z",
+  "size": 542,
+  "md5Hash": "9Hlxq0Oja/7yQ50/8xqvlQ==",
+  "crc32c": "2399391513"
+}

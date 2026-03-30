@@ -1,0 +1,20 @@
+{
+  "name": "features/head/head-white-big.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296416795,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "b66166e8-d89d-4369-94a3-57f96a1f8e18"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:16.795Z",
+  "updated": "2022-04-18T15:40:16.795Z",
+  "size": 580,
+  "md5Hash": "1YJolKUivem30Rn0rQVVYw==",
+  "crc32c": "2201315289"
+}

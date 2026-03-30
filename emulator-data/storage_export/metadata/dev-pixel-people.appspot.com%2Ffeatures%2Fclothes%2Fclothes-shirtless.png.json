@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-shirtless.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327524,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "1bc0a2ff-3a0c-473e-813e-43da43d70fc5"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.524Z",
+  "updated": "2022-04-18T15:38:47.524Z",
+  "size": 96,
+  "md5Hash": "eD9NiH52dGk1daH0v+5boQ==",
+  "crc32c": "728836422"
+}

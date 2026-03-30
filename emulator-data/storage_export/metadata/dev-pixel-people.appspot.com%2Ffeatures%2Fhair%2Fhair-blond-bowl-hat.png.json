@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blond-bowl-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402293,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "17e1860f-1c2f-4e7f-aa4a-e468b4394419"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.293Z",
+  "updated": "2022-04-18T15:40:02.293Z",
+  "size": 150,
+  "md5Hash": "7ydh39KLvQxjC66bw/eO4Q==",
+  "crc32c": "1845211819"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-brown.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364574,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d98da37b-cd56-4bf7-b97b-0d3b2dc6393d"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.574Z",
+  "updated": "2022-04-18T15:39:24.574Z",
+  "size": 546,
+  "md5Hash": "lOB/663tU25cF9+O47jdtg==",
+  "crc32c": "1732401442"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/head/head-black-point.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296416817,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "e7856b87-1d17-479a-9e15-3f580651669a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:16.817Z",
+  "updated": "2022-04-18T15:40:16.817Z",
+  "size": 590,
+  "md5Hash": "Ic3vFPqt+8bjHQqGKXv5Ng==",
+  "crc32c": "650233677"
+}

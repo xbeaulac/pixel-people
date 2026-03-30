@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-cone.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410123,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "7a3445f3-2c44-4d10-8152-df86c16920ad"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.123Z",
+  "updated": "2022-04-18T15:40:10.123Z",
+  "size": 190,
+  "md5Hash": "sXtM/ISk0cvIgauiIiqsOw==",
+  "crc32c": "2840762457"
+}

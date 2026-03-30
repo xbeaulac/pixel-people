@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-white-slit.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351869,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "32f9b73e-8e7e-4d88-b7b2-53c4efe50834"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.869Z",
+  "updated": "2022-04-18T15:39:11.869Z",
+  "size": 512,
+  "md5Hash": "D6KT1ZG3xUKPta2zc6ITlQ==",
+  "crc32c": "1192319873"
+}

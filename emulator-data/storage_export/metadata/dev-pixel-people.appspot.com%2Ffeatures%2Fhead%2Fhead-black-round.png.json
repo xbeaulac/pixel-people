@@ -1,0 +1,20 @@
+{
+  "name": "features/head/head-black-round.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296416810,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "81f8eca6-618c-4c1b-95c3-04bae4249b5d"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:16.810Z",
+  "updated": "2022-04-18T15:40:16.810Z",
+  "size": 208,
+  "md5Hash": "CiZThUWQK7Lcuo0zVV0r8g==",
+  "crc32c": "351373941"
+}

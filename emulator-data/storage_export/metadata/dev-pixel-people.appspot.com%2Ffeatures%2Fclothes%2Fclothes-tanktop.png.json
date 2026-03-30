@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-tanktop.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327447,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "3b4bf0b2-53a2-401f-8ad3-daef827c71ca"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.447Z",
+  "updated": "2022-04-18T15:38:47.447Z",
+  "size": 180,
+  "md5Hash": "wLsNwZ5W+fn6hjy3hbJG/Q==",
+  "crc32c": "2722458001"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "text/plain",
+  "metageneration": 1,
+  "generation": 1650296237177,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "971db3d9-5d4c-47a3-8427-7d85c25a55bd"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:37:17.177Z",
+  "updated": "2022-04-18T15:37:17.177Z",
+  "size": 0,
+  "md5Hash": "1B2M2Y8AsgTpgAmY7PhCfg==",
+  "crc32c": "0"
+}

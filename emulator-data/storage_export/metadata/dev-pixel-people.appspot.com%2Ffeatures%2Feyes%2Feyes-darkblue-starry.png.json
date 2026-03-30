@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-darkblue-starry.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364368,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "e4005f61-842f-486b-a721-3499aeac79e4"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.368Z",
+  "updated": "2022-04-18T15:39:24.368Z",
+  "size": 135,
+  "md5Hash": "dB8lUPWqg3diDzNMgcJOPA==",
+  "crc32c": "1137890991"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blond-curtain.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402243,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "6365cb7c-bf11-4268-b76f-e2ef44835df3"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.243Z",
+  "updated": "2022-04-18T15:40:02.243Z",
+  "size": 327,
+  "md5Hash": "j3zXRWlcIbFv6Q4exjYZ1w==",
+  "crc32c": "14967469"
+}

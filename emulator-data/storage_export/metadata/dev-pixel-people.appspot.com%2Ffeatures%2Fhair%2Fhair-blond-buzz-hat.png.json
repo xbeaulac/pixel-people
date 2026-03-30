@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blond-buzz-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402156,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "1b154857-10b6-46af-bdc5-f0366aeb9bf9"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.156Z",
+  "updated": "2022-04-18T15:40:02.156Z",
+  "size": 138,
+  "md5Hash": "q89KOXVg5Ke/JkSKgyQzyw==",
+  "crc32c": "3729763593"
+}

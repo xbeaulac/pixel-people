@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-high-top.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402115,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "fffed90d-0f15-4def-8231-aefc4e62658f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.115Z",
+  "updated": "2022-04-18T15:40:02.115Z",
+  "size": 232,
+  "md5Hash": "AuXfBSk/JJl6s6azajm9Gg==",
+  "crc32c": "3288897964"
+}

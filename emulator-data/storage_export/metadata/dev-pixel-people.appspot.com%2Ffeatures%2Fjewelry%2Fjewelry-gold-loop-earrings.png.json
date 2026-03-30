@@ -1,0 +1,20 @@
+{
+  "name": "features/jewelry/jewelry-gold-loop-earrings.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296423240,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "45278ef7-be25-4b0b-b40e-960397316e67"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:23.240Z",
+  "updated": "2022-04-18T15:40:23.240Z",
+  "size": 485,
+  "md5Hash": "0OmJGNyx51Y2kP9lRpPihg==",
+  "crc32c": "836437749"
+}

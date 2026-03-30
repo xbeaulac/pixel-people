@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-lightblue-sleepy.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364571,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "995288c1-00b1-445c-9e26-a73973b40932"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.571Z",
+  "updated": "2022-04-18T15:39:24.571Z",
+  "size": 507,
+  "md5Hash": "A4wBq4y11hlQ3C9vyjjsnw==",
+  "crc32c": "739068915"
+}

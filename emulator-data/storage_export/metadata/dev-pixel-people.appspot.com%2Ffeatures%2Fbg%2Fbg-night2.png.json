@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-night2.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306846,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "64934604-f1b3-4f64-8100-ff45b46ad3a0"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.846Z",
+  "updated": "2022-04-18T15:38:26.846Z",
+  "size": 689,
+  "md5Hash": "1b96e7prk4aSWTCzVvEzCQ==",
+  "crc32c": "3477750998"
+}

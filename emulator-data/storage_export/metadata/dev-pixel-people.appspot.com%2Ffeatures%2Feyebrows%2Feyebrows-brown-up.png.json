@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-brown-up.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351823,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "36fb3ced-c9f2-4901-93da-2ff85fb62830"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.823Z",
+  "updated": "2022-04-18T15:39:11.823Z",
+  "size": 505,
+  "md5Hash": "U6o46pD3QG+zRLcy/ODxFw==",
+  "crc32c": "1617472043"
+}

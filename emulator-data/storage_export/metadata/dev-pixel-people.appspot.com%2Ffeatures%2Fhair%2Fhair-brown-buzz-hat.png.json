@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-buzz-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402034,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "e09dc67d-98ef-476e-bc22-96b0d5421b40"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.034Z",
+  "updated": "2022-04-18T15:40:02.034Z",
+  "size": 134,
+  "md5Hash": "Zv+sbN7iU8aEhMCYBrRyNQ==",
+  "crc32c": "1818269411"
+}

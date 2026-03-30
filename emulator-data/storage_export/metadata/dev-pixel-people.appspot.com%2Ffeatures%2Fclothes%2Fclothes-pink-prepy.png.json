@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-pink-prepy.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327500,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "abe490fc-1101-449f-b8da-d68f6cb7d75c"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.500Z",
+  "updated": "2022-04-18T15:38:47.500Z",
+  "size": 244,
+  "md5Hash": "NHtMJ5S+65YredaOzexupA==",
+  "crc32c": "1371342856"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/head/head-grey-big.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296416792,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "aeaada68-46fa-4c0b-8b4d-ce088b5d5607"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:16.792Z",
+  "updated": "2022-04-18T15:40:16.792Z",
+  "size": 220,
+  "md5Hash": "dFbugdMNNmUjkh63XVZ0eg==",
+  "crc32c": "990212768"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-spiky.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402090,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "95f53a92-d528-432f-8577-2d78b9dbd93c"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.090Z",
+  "updated": "2022-04-18T15:40:02.090Z",
+  "size": 472,
+  "md5Hash": "otSbVY1OghmnXcQ9rr17bw==",
+  "crc32c": "317691826"
+}

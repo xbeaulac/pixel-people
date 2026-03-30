@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-messy.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402258,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "f33097ab-be31-4c2b-81ed-48ee0bd49264"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.258Z",
+  "updated": "2022-04-18T15:40:02.258Z",
+  "size": 408,
+  "md5Hash": "L49qx0TBypbPyv57tUC9wg==",
+  "crc32c": "2669911575"
+}

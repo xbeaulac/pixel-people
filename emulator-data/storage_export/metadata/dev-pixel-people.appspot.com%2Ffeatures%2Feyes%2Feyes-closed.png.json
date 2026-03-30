@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-closed.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364560,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "b77c2dfa-10a1-4678-ab4f-4650578af49d"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.560Z",
+  "updated": "2022-04-18T15:39:24.560Z",
+  "size": 503,
+  "md5Hash": "3m369LsmvjOL9OQf+raOsQ==",
+  "crc32c": "2074371151"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-darkblue-bloodshot.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364438,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "9f60b135-b388-41ee-ba26-00cdd0f6281a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.438Z",
+  "updated": "2022-04-18T15:39:24.438Z",
+  "size": 530,
+  "md5Hash": "Z2uby5kK0xCuEkxEHAP1GQ==",
+  "crc32c": "23236268"
+}

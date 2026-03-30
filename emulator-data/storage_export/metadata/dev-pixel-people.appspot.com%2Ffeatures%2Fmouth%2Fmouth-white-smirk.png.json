@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-white-smirk.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429433,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "4738a3cf-fdbf-42f2-bc2f-814ac4bfe7d7"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.433Z",
+  "updated": "2022-04-18T15:40:29.433Z",
+  "size": 497,
+  "md5Hash": "UsUlHEwHrb778Zzle1cE5g==",
+  "crc32c": "434166649"
+}

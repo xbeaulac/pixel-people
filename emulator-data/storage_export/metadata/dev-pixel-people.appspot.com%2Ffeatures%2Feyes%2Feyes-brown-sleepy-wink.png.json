@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-brown-sleepy-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364395,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "6da360b8-c3f6-4dc8-a188-aa1fae7d8638"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.395Z",
+  "updated": "2022-04-18T15:39:24.395Z",
+  "size": 127,
+  "md5Hash": "QOEA2J4a0Gasb1KVTYcbHg==",
+  "crc32c": "3983735902"
+}

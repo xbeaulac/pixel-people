@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-sleepy.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364304,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "0a3ee4e5-4a62-4a07-aa30-e96708836297"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.304Z",
+  "updated": "2022-04-18T15:39:24.304Z",
+  "size": 506,
+  "md5Hash": "vKrm2eyog2odZKMTgCS00g==",
+  "crc32c": "2295909342"
+}

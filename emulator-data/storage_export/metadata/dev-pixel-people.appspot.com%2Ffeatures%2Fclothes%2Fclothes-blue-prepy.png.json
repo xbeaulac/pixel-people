@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-blue-prepy.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327398,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "10a61268-067e-4d29-b279-b22de20763d9"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.398Z",
+  "updated": "2022-04-18T15:38:47.398Z",
+  "size": 245,
+  "md5Hash": "brip/qDP7NjZ1WFea9oXTg==",
+  "crc32c": "2813862704"
+}

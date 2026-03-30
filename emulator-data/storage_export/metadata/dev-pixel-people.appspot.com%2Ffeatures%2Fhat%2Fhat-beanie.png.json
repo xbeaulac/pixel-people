@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-beanie.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410178,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "8c9d7844-f300-4ea5-a527-25eeb5fa0285"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.178Z",
+  "updated": "2022-04-18T15:40:10.178Z",
+  "size": 199,
+  "md5Hash": "kRUWL+au3oJBnSnAfnQuSA==",
+  "crc32c": "920957661"
+}

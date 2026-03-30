@@ -1,0 +1,20 @@
+{
+  "name": "features/head/head-white-point.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296416804,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "44259971-4d38-489e-a8fc-f5b96ea6b1ae"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:16.804Z",
+  "updated": "2022-04-18T15:40:16.804Z",
+  "size": 590,
+  "md5Hash": "FRNcW1Qh9q7ccZGB4CzwGA==",
+  "crc32c": "2895585158"
+}

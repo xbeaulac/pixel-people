@@ -1,0 +1,20 @@
+{
+  "name": "features/glasses/glasses-retro.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296395906,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "ee38ac4d-4df5-4b7b-8309-79c39d130410"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:55.906Z",
+  "updated": "2022-04-18T15:39:55.906Z",
+  "size": 534,
+  "md5Hash": "SUcsQZt/VcnWJqWTcZVFNA==",
+  "crc32c": "3519454004"
+}

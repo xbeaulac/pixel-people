@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-darkblue-starry-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364316,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "10f0ae02-8427-4a0f-bec9-c2cc273e3b6b"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.316Z",
+  "updated": "2022-04-18T15:39:24.316Z",
+  "size": 132,
+  "md5Hash": "GKvvlNbmEmS8ZbBdg1cvjw==",
+  "crc32c": "60059039"
+}

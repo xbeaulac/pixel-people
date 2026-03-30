@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-white-frown.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429454,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "afac741c-8cd5-401d-a346-6426adac8666"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.454Z",
+  "updated": "2022-04-18T15:40:29.454Z",
+  "size": 126,
+  "md5Hash": "ALksfDIVjr4vdt/Z2JA5tQ==",
+  "crc32c": "2937713371"
+}

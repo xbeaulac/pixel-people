@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-grey-bloodshot.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364520,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "ec7b5621-64d6-46cb-9c5c-f4c638e54268"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.520Z",
+  "updated": "2022-04-18T15:39:24.520Z",
+  "size": 524,
+  "md5Hash": "cXASIap8D48pgtrjCqv6TQ==",
+  "crc32c": "602578931"
+}

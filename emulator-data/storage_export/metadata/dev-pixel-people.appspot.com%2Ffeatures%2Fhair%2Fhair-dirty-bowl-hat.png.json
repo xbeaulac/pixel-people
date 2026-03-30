@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-dirty-bowl-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402018,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "26d96c98-2723-4270-a1bb-d8a0b419f32c"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.018Z",
+  "updated": "2022-04-18T15:40:02.018Z",
+  "size": 151,
+  "md5Hash": "kbBJ07JcZ1GjEpy0kv6Fug==",
+  "crc32c": "3765903776"
+}

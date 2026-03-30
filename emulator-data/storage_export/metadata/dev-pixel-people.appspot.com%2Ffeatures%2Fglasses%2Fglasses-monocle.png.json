@@ -1,0 +1,20 @@
+{
+  "name": "features/glasses/glasses-monocle.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296395904,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "046a7939-75bd-4d3e-84bb-c7ac4532b864"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:55.904Z",
+  "updated": "2022-04-18T15:39:55.904Z",
+  "size": 533,
+  "md5Hash": "5L02apzVtW7sIyov+t6BgQ==",
+  "crc32c": "371690499"
+}

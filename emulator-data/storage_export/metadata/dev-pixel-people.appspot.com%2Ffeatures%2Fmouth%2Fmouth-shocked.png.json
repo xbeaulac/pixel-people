@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-shocked.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429439,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "9edb742c-06f4-4265-91e7-5683765df65f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.439Z",
+  "updated": "2022-04-18T15:40:29.439Z",
+  "size": 139,
+  "md5Hash": "z6mhiMXfZFGi5r1/390gyg==",
+  "crc32c": "2108335309"
+}

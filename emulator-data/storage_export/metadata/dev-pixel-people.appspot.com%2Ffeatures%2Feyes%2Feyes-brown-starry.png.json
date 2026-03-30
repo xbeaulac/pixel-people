@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-brown-starry.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364418,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "79dee0bc-cfb3-4e00-aa83-909a9426f5ad"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.418Z",
+  "updated": "2022-04-18T15:39:24.418Z",
+  "size": 135,
+  "md5Hash": "7Wr81ZCMh96xpnhg0bhluQ==",
+  "crc32c": "3222730676"
+}

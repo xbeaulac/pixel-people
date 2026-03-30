@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-black-happy.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429452,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "6b348cb1-82f6-46cf-8020-0d11d74b2d4d"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.452Z",
+  "updated": "2022-04-18T15:40:29.452Z",
+  "size": 112,
+  "md5Hash": "NHNpZ6Myx/LuHCQ06nHA8Q==",
+  "crc32c": "1830607749"
+}

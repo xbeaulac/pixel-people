@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-farmer.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327483,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "6d75ffb2-611f-4453-aed0-6956308e7a41"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.483Z",
+  "updated": "2022-04-18T15:38:47.483Z",
+  "size": 252,
+  "md5Hash": "Czugt4ITpCd/caT5E/SoWg==",
+  "crc32c": "571473325"
+}

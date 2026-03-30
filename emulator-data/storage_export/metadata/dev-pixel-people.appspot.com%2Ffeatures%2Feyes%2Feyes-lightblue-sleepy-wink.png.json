@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-lightblue-sleepy-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364567,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "004db704-371c-4253-8519-98f10786de83"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.567Z",
+  "updated": "2022-04-18T15:39:24.567Z",
+  "size": 127,
+  "md5Hash": "FqgrKIUU52zHh3XnauQpgQ==",
+  "crc32c": "3820855599"
+}

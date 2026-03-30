@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-exclamation.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364382,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "74498c31-2b9c-4259-837b-fa80bab8b7c8"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.382Z",
+  "updated": "2022-04-18T15:39:24.382Z",
+  "size": 505,
+  "md5Hash": "5Rh11a5s8XDy53I6YvJ4+g==",
+  "crc32c": "3738916001"
+}

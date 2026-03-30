@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-lightblue-bloodshot.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364585,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "6dac7c3f-c9d1-4c3a-99ab-a904f4dabb92"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.585Z",
+  "updated": "2022-04-18T15:39:24.585Z",
+  "size": 529,
+  "md5Hash": "bFCBDEMwH+ci81NE74NOqg==",
+  "crc32c": "791579253"
+}

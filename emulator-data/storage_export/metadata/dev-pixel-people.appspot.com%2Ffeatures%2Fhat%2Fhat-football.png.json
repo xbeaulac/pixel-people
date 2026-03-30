@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-football.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410144,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "6580aa74-6aae-4cc8-abf9-960d1cb0ce9b"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.144Z",
+  "updated": "2022-04-18T15:40:10.144Z",
+  "size": 315,
+  "md5Hash": "fnxhLDGPIKXAgM9cxZUWVg==",
+  "crc32c": "309157776"
+}

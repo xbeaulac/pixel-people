@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-black-sad.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351874,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "4914c19e-1dd7-4b8f-99be-2c9fe8d6c706"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.874Z",
+  "updated": "2022-04-18T15:39:11.874Z",
+  "size": 502,
+  "md5Hash": "RgTZkclk+++jY+GfOgv/Kg==",
+  "crc32c": "1653120410"
+}

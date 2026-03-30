@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-brown-frown.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429437,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "fdb7098a-c1e8-4c2d-afbc-77e8c646d77f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.437Z",
+  "updated": "2022-04-18T15:40:29.437Z",
+  "size": 126,
+  "md5Hash": "PWq+KeA+J32OVGoJgzD7/A==",
+  "crc32c": "846920942"
+}

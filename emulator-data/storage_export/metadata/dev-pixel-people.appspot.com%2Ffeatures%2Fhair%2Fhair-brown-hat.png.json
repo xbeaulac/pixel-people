@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402023,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "ec09d640-9546-4914-bf12-ec03432e7a8c"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.023Z",
+  "updated": "2022-04-18T15:40:02.023Z",
+  "size": 241,
+  "md5Hash": "zwBxLZxZRC/Uj+WhGj1BAA==",
+  "crc32c": "3318780205"
+}

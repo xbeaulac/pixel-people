@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-black-mad.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351858,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "740ddb71-f530-462e-a96a-109a4b4072f0"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.858Z",
+  "updated": "2022-04-18T15:39:11.858Z",
+  "size": 501,
+  "md5Hash": "/RStZJdlk6F8Jp+NcPXfKQ==",
+  "crc32c": "4058532790"
+}

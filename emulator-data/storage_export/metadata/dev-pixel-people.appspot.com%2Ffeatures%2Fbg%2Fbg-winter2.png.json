@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-winter2.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306821,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "6298985b-5a01-4580-a4d6-565fa84c5258"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.821Z",
+  "updated": "2022-04-18T15:38:26.821Z",
+  "size": 954,
+  "md5Hash": "vqq9H7oMkIwcUtr8lItu8w==",
+  "crc32c": "3341424089"
+}

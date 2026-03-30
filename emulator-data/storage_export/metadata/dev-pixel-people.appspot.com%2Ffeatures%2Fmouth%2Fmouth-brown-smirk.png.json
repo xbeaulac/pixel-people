@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-brown-smirk.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429463,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "85406f7d-1d10-49e9-9cc3-5e256399091f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.463Z",
+  "updated": "2022-04-18T15:40:29.463Z",
+  "size": 497,
+  "md5Hash": "dFWvHNA4QIOXfZNnrQjj3w==",
+  "crc32c": "67566149"
+}

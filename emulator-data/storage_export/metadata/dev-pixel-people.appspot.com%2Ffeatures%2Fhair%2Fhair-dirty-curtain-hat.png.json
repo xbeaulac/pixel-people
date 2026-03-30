@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-dirty-curtain-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402180,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "49b59916-12cb-4c45-b9fe-d272dbee6138"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.180Z",
+  "updated": "2022-04-18T15:40:02.180Z",
+  "size": 254,
+  "md5Hash": "gud3u3GLC6fGwBSxl930iw==",
+  "crc32c": "2060056651"
+}

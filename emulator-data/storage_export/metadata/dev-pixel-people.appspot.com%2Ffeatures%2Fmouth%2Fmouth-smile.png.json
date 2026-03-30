@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-smile.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429450,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "39bd71bd-5294-400a-aecf-29c8746c6a55"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.450Z",
+  "updated": "2022-04-18T15:40:29.450Z",
+  "size": 132,
+  "md5Hash": "AHSjbIeowMkBqTow15tjSQ==",
+  "crc32c": "3321052949"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-red-crossed-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364517,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "5bb52cdc-c493-49a7-8e60-b36ea392f400"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.517Z",
+  "updated": "2022-04-18T15:39:24.517Z",
+  "size": 148,
+  "md5Hash": "ZwRAby+hqEAZCUkQDDUNnA==",
+  "crc32c": "1566026924"
+}

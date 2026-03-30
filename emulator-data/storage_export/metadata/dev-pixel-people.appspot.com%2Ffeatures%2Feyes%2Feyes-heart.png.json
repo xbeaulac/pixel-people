@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-heart.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364545,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "41edcb04-1dfc-453f-9e05-b0bd2e69ee9b"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.545Z",
+  "updated": "2022-04-18T15:39:24.545Z",
+  "size": 522,
+  "md5Hash": "w45zzRWgaVDUq895JNJw1Q==",
+  "crc32c": "2512821115"
+}

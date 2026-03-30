@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-afro.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402140,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "27b2bc43-d284-4911-8800-97f38f0df76d"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.140Z",
+  "updated": "2022-04-18T15:40:02.140Z",
+  "size": 276,
+  "md5Hash": "XWiSj4LB8RKWnPZrUcsXkQ==",
+  "crc32c": "1488585572"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-tie.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327428,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "f943df03-3954-4f15-8e27-cf78519b3848"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.428Z",
+  "updated": "2022-04-18T15:38:47.428Z",
+  "size": 155,
+  "md5Hash": "Yf3afzeyEitbEH0NW4oPdQ==",
+  "crc32c": "2855463563"
+}

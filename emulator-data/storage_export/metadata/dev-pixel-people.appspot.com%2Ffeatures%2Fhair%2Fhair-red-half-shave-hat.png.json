@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-red-half-shave-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402201,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "0fb3bc3a-805c-404f-b84e-587a184860b3"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.201Z",
+  "updated": "2022-04-18T15:40:02.201Z",
+  "size": 284,
+  "md5Hash": "AXe3FUQlWg3jGol1CmQdcw==",
+  "crc32c": "1191869877"
+}

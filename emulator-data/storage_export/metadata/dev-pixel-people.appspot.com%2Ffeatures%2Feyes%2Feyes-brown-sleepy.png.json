@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-brown-sleepy.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364306,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "5f0cef24-224c-40c2-9cae-bf2b87afa96f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.306Z",
+  "updated": "2022-04-18T15:39:24.306Z",
+  "size": 506,
+  "md5Hash": "//dX3NgPxOdVUU2oBIljHw==",
+  "crc32c": "1122748437"
+}

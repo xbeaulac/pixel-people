@@ -1,0 +1,20 @@
+{
+  "name": "features/head/head-grey-point.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296416788,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "24c3f8ce-b342-43ec-9adc-ff30fdb500ce"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:16.788Z",
+  "updated": "2022-04-18T15:40:16.788Z",
+  "size": 223,
+  "md5Hash": "GWl7Zv2lYziXh6t9F122rw==",
+  "crc32c": "3409643333"
+}

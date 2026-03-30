@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-dirty-slick-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402142,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "0f11df0f-ab07-4495-b474-b435b31973b8"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.142Z",
+  "updated": "2022-04-18T15:40:02.142Z",
+  "size": 136,
+  "md5Hash": "Ptjif24ADF/Y2NiL6vMm7w==",
+  "crc32c": "3010085426"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-purple.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306828,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "fb12931b-bf7b-4b83-b6ee-7b9d025ddcad"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.828Z",
+  "updated": "2022-04-18T15:38:26.828Z",
+  "size": 121,
+  "md5Hash": "1IdXP39l38A+NFf0AXa2LA==",
+  "crc32c": "562385902"
+}

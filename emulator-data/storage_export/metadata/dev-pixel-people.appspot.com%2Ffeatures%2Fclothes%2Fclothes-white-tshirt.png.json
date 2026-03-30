@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-white-tshirt.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327431,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "6e8d51f2-cc47-4587-b32d-26ce141a4835"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.431Z",
+  "updated": "2022-04-18T15:38:47.431Z",
+  "size": 166,
+  "md5Hash": "rcUicFctPdFF2Fvtm6LOUQ==",
+  "crc32c": "3931478507"
+}

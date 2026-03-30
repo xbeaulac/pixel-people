@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-thin.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402284,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "77244524-08e9-4694-8b3b-d19520ff44a9"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.284Z",
+  "updated": "2022-04-18T15:40:02.284Z",
+  "size": 191,
+  "md5Hash": "aNTtNcw27hl6G0i2/ULj/g==",
+  "crc32c": "1458359727"
+}

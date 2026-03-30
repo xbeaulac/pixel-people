@@ -1,0 +1,20 @@
+{
+  "name": "features/glasses/glasses-gold.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296395854,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "de99b820-999a-4196-97b4-e6e4a407ae2b"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:55.854Z",
+  "updated": "2022-04-18T15:39:55.854Z",
+  "size": 521,
+  "md5Hash": "S1tpXvUKpoQKUwrF1uZohg==",
+  "crc32c": "4245989598"
+}

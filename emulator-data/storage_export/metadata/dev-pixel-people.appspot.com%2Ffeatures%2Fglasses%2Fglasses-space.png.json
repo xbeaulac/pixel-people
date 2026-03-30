@@ -1,0 +1,20 @@
+{
+  "name": "features/glasses/glasses-space.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296395899,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "415c12bf-c5dc-4d05-aeee-73b4b8867bb8"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:55.899Z",
+  "updated": "2022-04-18T15:39:55.899Z",
+  "size": 523,
+  "md5Hash": "YLtg038w3jkSGS71GKR5jA==",
+  "crc32c": "1394079757"
+}

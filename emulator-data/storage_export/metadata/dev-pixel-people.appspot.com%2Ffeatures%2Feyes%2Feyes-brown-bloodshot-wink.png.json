@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-brown-bloodshot-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364588,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "f82bf555-8829-46a0-b4b0-cc6680fd4028"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.588Z",
+  "updated": "2022-04-18T15:39:24.588Z",
+  "size": 141,
+  "md5Hash": "tfuAzPCcIgA3luvWOmiRtQ==",
+  "crc32c": "2825508453"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-red-bloodshot-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364528,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "a499224c-c134-40b2-a7e3-f707da9a8b2e"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.528Z",
+  "updated": "2022-04-18T15:39:24.528Z",
+  "size": 141,
+  "md5Hash": "KKXQPmYS4LW3p3XKvTdMSg==",
+  "crc32c": "2735740315"
+}

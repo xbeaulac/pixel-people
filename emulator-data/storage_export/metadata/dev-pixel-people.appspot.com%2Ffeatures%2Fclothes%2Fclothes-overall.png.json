@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-overall.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327426,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "8bcd1c3d-bf07-4589-8ab1-aa0e7b637dbf"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.426Z",
+  "updated": "2022-04-18T15:38:47.426Z",
+  "size": 191,
+  "md5Hash": "f/7KvWh9yClbV6VLCNv8pQ==",
+  "crc32c": "848529347"
+}

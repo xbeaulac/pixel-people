@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-brown-bloodshot.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364345,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "e962c577-e41d-4b13-810f-8470ef349f81"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.345Z",
+  "updated": "2022-04-18T15:39:24.345Z",
+  "size": 529,
+  "md5Hash": "LxHspNHR6kyNUZSE7/CBPg==",
+  "crc32c": "319820806"
+}

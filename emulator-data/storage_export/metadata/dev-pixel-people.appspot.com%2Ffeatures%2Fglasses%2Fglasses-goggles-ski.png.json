@@ -1,0 +1,20 @@
+{
+  "name": "features/glasses/glasses-goggles-ski.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296395898,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "ea97f19a-1450-4245-bd7a-36f701ce4112"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:55.898Z",
+  "updated": "2022-04-18T15:39:55.898Z",
+  "size": 571,
+  "md5Hash": "GiAMPAV9LzAP9qISYKHdzA==",
+  "crc32c": "1077929154"
+}

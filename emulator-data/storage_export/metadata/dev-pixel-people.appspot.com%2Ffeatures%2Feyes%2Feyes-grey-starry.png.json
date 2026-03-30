@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-grey-starry.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364535,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d76f55c8-9714-48f1-b014-52be86134715"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.535Z",
+  "updated": "2022-04-18T15:39:24.535Z",
+  "size": 136,
+  "md5Hash": "jBt1I9w3dFhBxBVc2gWYWA==",
+  "crc32c": "2690612548"
+}

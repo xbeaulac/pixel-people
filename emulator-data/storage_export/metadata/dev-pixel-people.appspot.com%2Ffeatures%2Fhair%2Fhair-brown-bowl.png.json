@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-bowl.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402251,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "f706fa3f-78c1-4017-ba34-1b8b5c209616"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.251Z",
+  "updated": "2022-04-18T15:40:02.251Z",
+  "size": 219,
+  "md5Hash": "C4ucVDK/a8pKlpSZK94urw==",
+  "crc32c": "233901002"
+}

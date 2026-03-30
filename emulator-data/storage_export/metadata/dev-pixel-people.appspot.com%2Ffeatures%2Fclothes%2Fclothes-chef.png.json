@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-chef.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327497,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "f26381d4-c7f1-4ffd-9bc1-ab2fffcd31bd"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.497Z",
+  "updated": "2022-04-18T15:38:47.497Z",
+  "size": 197,
+  "md5Hash": "qJQWOQ3vpT7rZeXxrOTjIg==",
+  "crc32c": "3260545309"
+}

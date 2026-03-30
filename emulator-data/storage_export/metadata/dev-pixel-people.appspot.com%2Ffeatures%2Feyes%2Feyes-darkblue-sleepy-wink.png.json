@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-darkblue-sleepy-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364525,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d2201101-1c08-4e53-bef9-ecc58c8fc36f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.525Z",
+  "updated": "2022-04-18T15:39:24.525Z",
+  "size": 127,
+  "md5Hash": "aAdm4WfSQNxSn+Nfh93Z0g==",
+  "crc32c": "602922198"
+}

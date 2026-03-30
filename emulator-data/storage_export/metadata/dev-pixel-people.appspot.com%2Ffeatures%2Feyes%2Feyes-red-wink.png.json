@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-red-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364357,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "56256b2b-46ed-43d0-a96c-9bc4acccca24"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.357Z",
+  "updated": "2022-04-18T15:39:24.357Z",
+  "size": 527,
+  "md5Hash": "PAdf4CWSqNq6iZ9PSYwvkw==",
+  "crc32c": "2042232093"
+}

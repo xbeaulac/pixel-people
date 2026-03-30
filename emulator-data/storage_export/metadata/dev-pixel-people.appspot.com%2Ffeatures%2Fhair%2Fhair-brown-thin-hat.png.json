@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-thin-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402261,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "8be78ae0-852e-4070-ac87-05f3433b90d5"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.261Z",
+  "updated": "2022-04-18T15:40:02.261Z",
+  "size": 153,
+  "md5Hash": "XqFMu5OTGdkD99o1cl52yg==",
+  "crc32c": "923738724"
+}

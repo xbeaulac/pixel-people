@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-crown.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410173,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "bf601c01-8e6b-4751-88ef-72d81554d8d2"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.173Z",
+  "updated": "2022-04-18T15:40:10.173Z",
+  "size": 251,
+  "md5Hash": "gy1wlvWT51pFRh19zkbSYQ==",
+  "crc32c": "2553724919"
+}

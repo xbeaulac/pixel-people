@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blond.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402014,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "4f93c495-5b17-475e-949b-71f26e64ed0d"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.014Z",
+  "updated": "2022-04-18T15:40:02.014Z",
+  "size": 350,
+  "md5Hash": "maRqeoSf39qowmUYexHrJA==",
+  "crc32c": "2270860086"
+}

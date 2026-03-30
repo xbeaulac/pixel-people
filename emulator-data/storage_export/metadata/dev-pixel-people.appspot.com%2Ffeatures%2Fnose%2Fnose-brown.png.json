@@ -1,0 +1,20 @@
+{
+  "name": "features/nose/nose-brown.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296436133,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "73008dd0-2c1f-4f4f-b91d-891d73a292a8"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:36.133Z",
+  "updated": "2022-04-18T15:40:36.133Z",
+  "size": 490,
+  "md5Hash": "xnxIumW4R9/XzZQrQsXlSA==",
+  "crc32c": "4286362106"
+}

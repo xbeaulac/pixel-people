@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-black-bold.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351821,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "5c74c2fb-2489-49d8-aab9-9e0e2bb32fa1"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.821Z",
+  "updated": "2022-04-18T15:39:11.821Z",
+  "size": 511,
+  "md5Hash": "BxTUrT1K0k1JHMKHT3tHcg==",
+  "crc32c": "943939910"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-grey-sport.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327498,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "1c0abcdf-23f8-4488-9a49-dac3b281c1c8"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.498Z",
+  "updated": "2022-04-18T15:38:47.498Z",
+  "size": 181,
+  "md5Hash": "qI7/wCAjz3UGeS4nJ5fxSQ==",
+  "crc32c": "475243693"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blond-bowl.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402119,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "f8195fbb-a882-4a93-ab2e-bc7f0fc9ca9b"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.119Z",
+  "updated": "2022-04-18T15:40:02.119Z",
+  "size": 212,
+  "md5Hash": "mUAWXXeCa0QfJZqPgAHbsg==",
+  "crc32c": "3444624094"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-medium-top.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402107,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "4ef8852e-45ad-4de8-ba2e-74738a911ca9"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.107Z",
+  "updated": "2022-04-18T15:40:02.107Z",
+  "size": 236,
+  "md5Hash": "pyroUHANAGuKNnPZuQeePw==",
+  "crc32c": "1334650785"
+}

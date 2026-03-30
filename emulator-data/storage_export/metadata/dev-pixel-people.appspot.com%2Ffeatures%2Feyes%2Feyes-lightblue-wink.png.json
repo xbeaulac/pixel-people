@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-lightblue-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364565,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "0c62a6dc-8575-4a97-b3aa-94b251e2cd1e"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.565Z",
+  "updated": "2022-04-18T15:39:24.565Z",
+  "size": 532,
+  "md5Hash": "yf/c6+KaTAZX5yFv1/jFCg==",
+  "crc32c": "4245982494"
+}

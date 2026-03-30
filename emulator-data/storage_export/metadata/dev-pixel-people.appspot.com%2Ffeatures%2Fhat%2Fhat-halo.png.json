@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-halo.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410124,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "7b69ee0b-0eb0-46a6-9bb1-f6e9f412928f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.124Z",
+  "updated": "2022-04-18T15:40:10.124Z",
+  "size": 142,
+  "md5Hash": "Tup0YceXKnbkk7pQXeK/BA==",
+  "crc32c": "3621672263"
+}

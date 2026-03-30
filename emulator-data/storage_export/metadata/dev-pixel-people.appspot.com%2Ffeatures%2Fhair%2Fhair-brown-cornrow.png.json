@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-cornrow.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402270,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d964c007-6dbb-4498-bab2-2ef27f2ef404"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.270Z",
+  "updated": "2022-04-18T15:40:02.270Z",
+  "size": 204,
+  "md5Hash": "NdVNSSTGp5EhBUBz9vF4Ig==",
+  "crc32c": "2330091503"
+}

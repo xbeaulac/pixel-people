@@ -1,0 +1,20 @@
+{
+  "name": "features/jewelry/jewelry-diamond-big-chain.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296423272,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "b23a6909-be02-435f-8e80-78038908edfd"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:23.272Z",
+  "updated": "2022-04-18T15:40:23.272Z",
+  "size": 171,
+  "md5Hash": "rytKl1POQJeGKJYdWunhuw==",
+  "crc32c": "1162457407"
+}

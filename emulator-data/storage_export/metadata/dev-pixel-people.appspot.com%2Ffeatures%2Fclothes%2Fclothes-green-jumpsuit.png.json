@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-green-jumpsuit.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327523,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "524fdc5b-4e2b-493d-982e-85a289997e6f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.523Z",
+  "updated": "2022-04-18T15:38:47.523Z",
+  "size": 234,
+  "md5Hash": "UlFjg0vmDtEiae8CdEzFaw==",
+  "crc32c": "780425210"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-red-sleepy-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364584,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "18856e5a-96e2-4cf5-a5a9-4e47785240c6"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.584Z",
+  "updated": "2022-04-18T15:39:24.584Z",
+  "size": 139,
+  "md5Hash": "42R5eRPIjsS8XCCpiYH9sw==",
+  "crc32c": "3773988136"
+}

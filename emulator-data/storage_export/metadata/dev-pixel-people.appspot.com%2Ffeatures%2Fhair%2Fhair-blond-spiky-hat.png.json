@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-blond-spiky-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402173,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "1cdfaed0-f6dd-4cee-b619-bee40cf9e142"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.173Z",
+  "updated": "2022-04-18T15:40:02.173Z",
+  "size": 247,
+  "md5Hash": "fzZVZb6g6sB5zHPuDC+KUA==",
+  "crc32c": "3731145422"
+}

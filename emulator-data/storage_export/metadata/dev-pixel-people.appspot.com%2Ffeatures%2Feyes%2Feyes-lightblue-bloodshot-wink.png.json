@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-lightblue-bloodshot-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364572,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "c3b5a0de-7e17-4ad3-b6a4-0df15dd4febe"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.572Z",
+  "updated": "2022-04-18T15:39:24.572Z",
+  "size": 142,
+  "md5Hash": "gszMlGeIvZMDLr6MX6PxNg==",
+  "crc32c": "1585238042"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-lightblue-starry.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364384,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "588a7f77-40ac-4edc-81bd-7dadbbf94c05"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.384Z",
+  "updated": "2022-04-18T15:39:24.384Z",
+  "size": 136,
+  "md5Hash": "HEcCepo4ImsLd1Lhwrmx+A==",
+  "crc32c": "4187131350"
+}

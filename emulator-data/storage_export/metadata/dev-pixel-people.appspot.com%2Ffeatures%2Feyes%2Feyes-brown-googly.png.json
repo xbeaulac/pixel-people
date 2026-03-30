@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-brown-googly.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364469,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "f55cf4d4-bc9b-43f2-a176-bf9ed88a6316"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.469Z",
+  "updated": "2022-04-18T15:39:24.469Z",
+  "size": 153,
+  "md5Hash": "lhMACrJrjYNrtM+n3EUZ5w==",
+  "crc32c": "2525950304"
+}

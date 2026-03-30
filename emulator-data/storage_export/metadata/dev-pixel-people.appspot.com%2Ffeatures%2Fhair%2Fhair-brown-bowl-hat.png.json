@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-bowl-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402247,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "b06a224b-e10c-4b8a-9dec-2da573cb7df4"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.247Z",
+  "updated": "2022-04-18T15:40:02.247Z",
+  "size": 155,
+  "md5Hash": "gTADyxohBpdEmLB7y9HMKg==",
+  "crc32c": "673812287"
+}

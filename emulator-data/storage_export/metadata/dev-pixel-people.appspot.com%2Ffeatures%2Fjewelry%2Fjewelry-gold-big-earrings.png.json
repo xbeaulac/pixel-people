@@ -1,0 +1,20 @@
+{
+  "name": "features/jewelry/jewelry-gold-big-earrings.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296423255,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "0ae2621e-3cbc-4cf1-9e3d-1b6429877158"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:23.255Z",
+  "updated": "2022-04-18T15:40:23.255Z",
+  "size": 486,
+  "md5Hash": "MvOi5b/JjL+XQ/eSXKB15g==",
+  "crc32c": "3453826582"
+}

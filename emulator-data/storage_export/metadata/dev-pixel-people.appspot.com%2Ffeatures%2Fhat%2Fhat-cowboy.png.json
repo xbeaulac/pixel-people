@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-cowboy.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410177,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "be6e20c7-c944-46b7-8122-e72d714014cb"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.177Z",
+  "updated": "2022-04-18T15:40:10.177Z",
+  "size": 272,
+  "md5Hash": "v2Ri9ut4PUIbiOh/S2D/AA==",
+  "crc32c": "2027998351"
+}

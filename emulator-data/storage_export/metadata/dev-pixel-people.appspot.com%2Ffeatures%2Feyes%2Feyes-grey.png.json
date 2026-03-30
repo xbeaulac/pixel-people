@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-grey.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364532,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "9a45bf4d-c6e3-4e84-be96-ae3c92fcfa32"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.532Z",
+  "updated": "2022-04-18T15:39:24.532Z",
+  "size": 542,
+  "md5Hash": "znBAH1ETX5zoaTlR2/Rfng==",
+  "crc32c": "4039479492"
+}

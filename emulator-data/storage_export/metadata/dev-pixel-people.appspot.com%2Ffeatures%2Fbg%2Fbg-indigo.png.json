@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-indigo.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306817,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "3bc5a023-de79-4598-9f1f-210253a111d8"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.817Z",
+  "updated": "2022-04-18T15:38:26.817Z",
+  "size": 121,
+  "md5Hash": "v85/qlEUvLrrxZu7L5etFA==",
+  "crc32c": "1339419718"
+}

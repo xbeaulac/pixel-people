@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-black-tshirt.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327402,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "f952a7eb-0a3d-4450-afc2-123eeaf41517"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.402Z",
+  "updated": "2022-04-18T15:38:47.402Z",
+  "size": 167,
+  "md5Hash": "laJnUK/28E96TSKNMoTxKA==",
+  "crc32c": "3014365634"
+}

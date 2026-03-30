@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-white-mad.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351852,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "cf995559-fcfe-4ba0-80f8-1a9a7761e42a"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.852Z",
+  "updated": "2022-04-18T15:39:11.852Z",
+  "size": 500,
+  "md5Hash": "yacxtk+VH1Nm7GWtop5XiA==",
+  "crc32c": "1447746308"
+}

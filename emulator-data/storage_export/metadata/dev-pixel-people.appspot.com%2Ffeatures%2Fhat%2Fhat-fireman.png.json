@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-fireman.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410180,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "426542f1-60b5-465e-9165-2e5237032108"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.180Z",
+  "updated": "2022-04-18T15:40:10.180Z",
+  "size": 262,
+  "md5Hash": "KnCXEPJT+H2onXsaZdtZGw==",
+  "crc32c": "430959451"
+}

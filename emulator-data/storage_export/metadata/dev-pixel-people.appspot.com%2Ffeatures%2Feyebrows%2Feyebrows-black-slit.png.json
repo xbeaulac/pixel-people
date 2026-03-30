@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-black-slit.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351828,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "58129cfd-187c-4cb4-9090-9f105828b076"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.828Z",
+  "updated": "2022-04-18T15:39:11.828Z",
+  "size": 512,
+  "md5Hash": "1DwRVk4ZV9+vq+Fpbg9XbQ==",
+  "crc32c": "2868087472"
+}

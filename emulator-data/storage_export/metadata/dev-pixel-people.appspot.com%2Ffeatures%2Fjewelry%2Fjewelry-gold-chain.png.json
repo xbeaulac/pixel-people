@@ -1,0 +1,20 @@
+{
+  "name": "features/jewelry/jewelry-gold-chain.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296423261,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "8639614d-6b48-4de7-a838-dd35a74a038f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:23.261Z",
+  "updated": "2022-04-18T15:40:23.261Z",
+  "size": 141,
+  "md5Hash": "vQnDD9fPKc0JYpQBDl6weA==",
+  "crc32c": "3667131059"
+}

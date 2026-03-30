@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-green-googly.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364319,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "ccbeddde-302a-4bdf-a85f-a115955ecdf0"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.319Z",
+  "updated": "2022-04-18T15:39:24.319Z",
+  "size": 153,
+  "md5Hash": "ZXgRw0retkIVqwdXB2Doqw==",
+  "crc32c": "1723141975"
+}

@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "dev-pixel-people",
+    "qa": "qa-pixel-people",
+    "production": "prod-pixel-people"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-red-sleepy.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364526,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "7549163a-9373-4c44-af2b-de35b8cb9cba"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.526Z",
+  "updated": "2022-04-18T15:39:24.526Z",
+  "size": 503,
+  "md5Hash": "J2RUZOY3cirv4/GvA/Lwlg==",
+  "crc32c": "141337792"
+}

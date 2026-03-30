@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-green-googly-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364559,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "5f76a9ca-fe20-4463-84ae-84aa005f19bc"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.559Z",
+  "updated": "2022-04-18T15:39:24.559Z",
+  "size": 137,
+  "md5Hash": "uAuoVnAKZ4jYDvD/mCzYDQ==",
+  "crc32c": "2104150561"
+}

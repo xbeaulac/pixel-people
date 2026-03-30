@@ -1,0 +1,20 @@
+{
+  "name": "features/bg/bg-rainbow1.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296306755,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "ba117de9-ecd3-4ab5-8e00-238a74a3225c"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:26.755Z",
+  "updated": "2022-04-18T15:38:26.755Z",
+  "size": 652,
+  "md5Hash": "fS84a9I0imiD3AwZOM9yRQ==",
+  "crc32c": "4210918963"
+}

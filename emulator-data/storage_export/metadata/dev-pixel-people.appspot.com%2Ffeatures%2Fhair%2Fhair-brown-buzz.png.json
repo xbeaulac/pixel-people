@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-buzz.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402256,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "744db204-93a4-450c-9721-119a2d6d5a61"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.256Z",
+  "updated": "2022-04-18T15:40:02.256Z",
+  "size": 179,
+  "md5Hash": "X1ExsE2J9OP4m64Cu8Y60Q==",
+  "crc32c": "2917621166"
+}

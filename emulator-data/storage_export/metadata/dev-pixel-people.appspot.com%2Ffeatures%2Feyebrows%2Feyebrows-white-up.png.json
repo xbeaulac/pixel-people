@@ -1,0 +1,20 @@
+{
+  "name": "features/eyebrows/eyebrows-white-up.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296351864,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "87cc1bbf-1640-4cca-a366-18eef9645d57"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:11.864Z",
+  "updated": "2022-04-18T15:39:11.864Z",
+  "size": 504,
+  "md5Hash": "d5G7Nc8t8MPr7ZYJjr//+g==",
+  "crc32c": "1501002679"
+}

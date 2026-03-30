@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-red.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364373,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "255d1157-7ccb-4483-bedf-ca7350013708"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.373Z",
+  "updated": "2022-04-18T15:39:24.373Z",
+  "size": 544,
+  "md5Hash": "UUezeKB7RkdWQI/O2tApiA==",
+  "crc32c": "3710933439"
+}

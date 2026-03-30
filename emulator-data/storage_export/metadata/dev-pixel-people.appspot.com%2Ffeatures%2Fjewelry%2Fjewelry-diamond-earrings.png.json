@@ -1,0 +1,20 @@
+{
+  "name": "features/jewelry/jewelry-diamond-earrings.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296423245,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "f985cb2a-cc21-4fe9-a273-a9fcd96f805d"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:23.245Z",
+  "updated": "2022-04-18T15:40:23.245Z",
+  "size": 479,
+  "md5Hash": "RdpcRKm+RpogvVDEV8gJ/A==",
+  "crc32c": "951310115"
+}

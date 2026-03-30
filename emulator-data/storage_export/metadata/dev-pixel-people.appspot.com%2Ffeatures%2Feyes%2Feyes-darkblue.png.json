@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-darkblue.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364537,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "13d815dc-9230-434d-ab48-329c36cbe509"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.537Z",
+  "updated": "2022-04-18T15:39:24.537Z",
+  "size": 542,
+  "md5Hash": "3+orCkUfg6UuZcuJdU8aCw==",
+  "crc32c": "3282983406"
+}

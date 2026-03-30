@@ -1,0 +1,20 @@
+{
+  "name": "features/mouth/mouth-red-smirk.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296429408,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "e0f191aa-adae-4dbf-ba94-81a12b861afb"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:29.408Z",
+  "updated": "2022-04-18T15:40:29.408Z",
+  "size": 518,
+  "md5Hash": "mKtDuBMyMzepzgtbpq97vw==",
+  "crc32c": "2102934749"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-dirty-buzz-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402259,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "85f24723-39ff-4f9e-8d39-d6fe7baf2439"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.259Z",
+  "updated": "2022-04-18T15:40:02.259Z",
+  "size": 148,
+  "md5Hash": "1STYAC93k43K6yy4I8gEqA==",
+  "crc32c": "489278897"
+}

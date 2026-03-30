@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-darkblue-googly.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364371,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "b986d4d9-cd77-4583-800d-8cfc0e07e7b0"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.371Z",
+  "updated": "2022-04-18T15:39:24.371Z",
+  "size": 152,
+  "md5Hash": "KIPj3IHNx1KcSHVBCV5ROw==",
+  "crc32c": "34334009"
+}

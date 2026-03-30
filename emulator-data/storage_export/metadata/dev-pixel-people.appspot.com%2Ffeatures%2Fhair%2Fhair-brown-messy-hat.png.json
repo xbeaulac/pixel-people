@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-brown-messy-hat.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402176,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "655bba93-14c2-4c63-be9b-ad99a80501e0"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.176Z",
+  "updated": "2022-04-18T15:40:02.176Z",
+  "size": 262,
+  "md5Hash": "pE9TnJrJa3SFeFb5kO1T7Q==",
+  "crc32c": "511997276"
+}

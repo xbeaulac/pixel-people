@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-green-starry-wink.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364596,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "045f0015-7d6a-464f-9a0d-c7e1cc21e402"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.596Z",
+  "updated": "2022-04-18T15:39:24.596Z",
+  "size": 132,
+  "md5Hash": "5+N85jWDkeMuZdA0k6g/5A==",
+  "crc32c": "2432405112"
+}

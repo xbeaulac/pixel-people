@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-dirty-short.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402128,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d3053bc6-c5e6-4bbc-a3e8-11db2dd4ba19"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.128Z",
+  "updated": "2022-04-18T15:40:02.128Z",
+  "size": 266,
+  "md5Hash": "oY/jEF/f3eFrtCZG4ay9uw==",
+  "crc32c": "360142042"
+}

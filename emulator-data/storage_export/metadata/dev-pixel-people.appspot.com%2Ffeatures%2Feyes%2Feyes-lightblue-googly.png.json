@@ -1,0 +1,20 @@
+{
+  "name": "features/eyes/eyes-lightblue-googly.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296364387,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "b84cab3d-d7b5-4d48-b135-cc0a1843e29f"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:39:24.387Z",
+  "updated": "2022-04-18T15:39:24.387Z",
+  "size": 140,
+  "md5Hash": "Y38JzsfZNNArdyE5zH4ZSg==",
+  "crc32c": "1936916049"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "features/hat/hat-party.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296410126,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "d0001798-c285-41b8-af58-6b5076f47122"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:10.126Z",
+  "updated": "2022-04-18T15:40:10.126Z",
+  "size": 286,
+  "md5Hash": "qb6qzaen39Ytkgkuso8fcA==",
+  "crc32c": "1975988926"
+}

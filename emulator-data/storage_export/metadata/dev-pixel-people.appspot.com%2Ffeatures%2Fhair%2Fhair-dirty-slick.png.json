@@ -1,0 +1,20 @@
+{
+  "name": "features/hair/hair-dirty-slick.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296402150,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "5035acd4-280c-499b-97ac-db2ce6ad1101"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:40:02.150Z",
+  "updated": "2022-04-18T15:40:02.150Z",
+  "size": 222,
+  "md5Hash": "5UuWigflfztK7shELAEJ8w==",
+  "crc32c": "1121763564"
+}

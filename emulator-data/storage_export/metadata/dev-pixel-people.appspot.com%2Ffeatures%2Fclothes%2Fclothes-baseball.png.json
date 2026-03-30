@@ -1,0 +1,20 @@
+{
+  "name": "features/clothes/clothes-baseball.png",
+  "bucket": "dev-pixel-people.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1650296327509,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "25e6ad59-3107-4800-9ea4-2fa73d18f014"
+  ],
+  "etag": "someETag",
+  "timeCreated": "2022-04-18T15:38:47.509Z",
+  "updated": "2022-04-18T15:38:47.509Z",
+  "size": 167,
+  "md5Hash": "Up/9cKJbDKYnqrCnWfOBlQ==",
+  "crc32c": "2655794799"
+}
